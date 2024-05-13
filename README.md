@@ -15,10 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Joshua Wiechman
+
 Bringing simplicity, vibrancy, and robustness to life and code! Driven by my passion for engineering, software development, technical leadership, mentoring, and continuous learning.
 
 With my diverse set of skills, including architecting, development, mentoring, and instructing, my curiosity guides me to explore, discover, and solve complex problems.  
-  
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wiechman/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com)
+
+[![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions)
+
+
+# ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RampantLions&show_icons=true&locale=en&layout=compact" alt="RampantLions" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RampantLions&" alt="hejazizo" />
+</div>
+
 
 
 <a href="https://github.com/RampantLions" target="_blank">
@@ -66,7 +85,7 @@ With my diverse set of skills, including architecting, development, mentoring, a
 <br/>  
 
 
-## Github Stats  
+# Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RampantLions&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
