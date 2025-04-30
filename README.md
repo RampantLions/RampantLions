@@ -81,7 +81,7 @@ With my diverse set of skills, including architecting, development, mentoring, a
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <div>
-    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/uno/uno_logo.jpg?raw=true" style="max-height: 75px;" />
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/uno/uno_logo.jpg?raw=true" style="max-height: 80px;" />
   </div>
   <div>
     <h3 style="margin: 0;">University of Nebraska at Omaha</h3>
@@ -95,6 +95,7 @@ With my diverse set of skills, including architecting, development, mentoring, a
 - Minor: Mathematics
 
 Activities and societies: Student Government Election Commissioner, Student Government Senior Class Senator, Be-A-Mav website personality, Student Faculty Liaison, Judicial & EEO Review Board, Learning & Education Resource CommitteeActivities and societies: Student Government Election Commissioner, Student Government Senior Class Senator, Be-A-Mav website personality, Student Faculty Liaison, Judicial & EEO Review Board, Learning & Education Resource Committee
+
 𝐃𝐞𝐭𝐚𝐢𝐥𝐬: Computer Science w/ minor in Mathematics
 
 University of Nebraska Omaha is a public metropolitan research university offering strong technical and engineering programs with a focus on applied sciences and information technology.
@@ -117,7 +118,7 @@ University of Nebraska Omaha is a public metropolitan research university offeri
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <div>
-    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/unl/unl_logo.jpg?raw=true" style="max-height: 70px;" />
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/unl/unl_logo.jpg?raw=true" style="max-height: 80px;" />
   </div>
   <div>
     <h3 style="margin: 0;">University of Nebraska at Lincoln</h3>
@@ -141,7 +142,7 @@ University of Nebraska Inter-campus Student Institution's description: The Unive
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <div>
-    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/bellevue_university/bellevue_university_logo.jpg?raw=true" style="max-height: 75px;" />
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/bellevue_university/bellevue_university_logo.jpg?raw=true" style="max-height: 80px;" />
   </div>
   <div>
     <h3 style="margin: 0;">Bellevue University</h3>
