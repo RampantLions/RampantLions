@@ -4,7 +4,8 @@
 
 Software Engineer | Cloud | Automation
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/wiechman/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com) [![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions) [![Github Pages](https://img.shields.io/badge/-GitHub%20Pages-%23ffffff?style=flat&logo=github&logoColor=black&logoWidth=20)](https://rampantlions.github.io/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=25)](https://www.linkedin.com/in/wiechman/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com) [![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions) [![Github Pages](https://img.shields.io/badge/-GitHub%20Pages-%23ffffff?style=flat&logo=github&logoColor=black&logoWidth=20)](https://rampantlions.github.io/) [![Medium](https://img.shields.io/badge/-Medium-%23ffffff?style=flat&logo=medium&logoColor=black)](https://medium.com/@RampantLions/)
+
 
 [//]: # ([![Reddit]&#40;https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions&#41;]&#40;https://www.reddit.com/&#41;)
 
@@ -46,8 +47,15 @@ Software Engineer | Cloud | Automation
 
 <hr style="border: 0; border-top: 1px solid #eee;" />
 
-Bringing simplicity, vibrancy, and robustness to life and code! Driven by my passion for engineering, software development, technical leadership, mentoring, and continuous learning.<br><br>
-With my diverse set of skills, including architecting, development, mentoring, and instructing, my curiosity guides me to explore, discover, and solve complex problems.  <br>  <br>
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profile.jpg?raw=true" style="max-height: 55px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <p style="margin: 4px 0;">Bringing simplicity, vibrancy, and robustness to life and code! Driven by my passion for engineering, software development, technical leadership, mentoring, and continuous learning.</p>
+    <p style="margin: 4px 0;">With my diverse set of skills, including architecting, development, mentoring, and instructing, my curiosity guides me to explore, discover, and solve complex problems.</p>
+</div>
+
 
 - Focused on building reliable, maintainable, and scalable systems.
 - Experienced with backend development, automation, and developer tooling.
