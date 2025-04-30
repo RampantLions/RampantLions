@@ -67,16 +67,13 @@ Software Engineer | Cloud | Automation
 > 
 > 
 
-<hr style="border: 0; border-top: 1px dashed #eee;" />
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
 ---
 
 ## ![GitHub](https://img.shields.io/badge/_-GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=white&label=&labelColor=grey)
-
-<hr style="border: 0; border-top: 1px solid #eee;" />
-
 
 ### ![📊️ Stats](https://img.shields.io/badge/📊-Stats-%23ffffff?style=for-the-badge&labelColor=%23eee)
 
@@ -89,11 +86,13 @@ Software Engineer | Cloud | Automation
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RampantLions&hide_border=true&layout=compact&theme=transparent&bg_color=00000000&langs_count=10&hide=css,erlang" align="left" style="width: 100%" />
 </div>
 
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+<p align="right"><a href="#readme-top">↖ Back to top</a></p>
+
 ---
 
 ## ![⚙️ Skills](https://img.shields.io/badge/⚙️-Skills-%23ffffff?style=for-the-badge&labelColor=transparent)
-
-<hr style="border: 0; border-top: 1px solid #eee;" />
 
 ### ![☁️ Cloud](https://img.shields.io/badge/☁️-Cloud-%23ffffff?style=for-the-badge&labelColor=%23eee)
 
@@ -280,6 +279,8 @@ Software Engineer | Cloud | Automation
 > ![MacOS](https://img.shields.io/badge/MacOS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=apple)
 > ![Windows](https://img.shields.io/badge/Windows-%23ffffff.svg?style=flat-square&logoColor=151515&logo=windows)
 
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
 #### ![🛠 Development Tools](https://img.shields.io/badge/🛠-Development%20Tools-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
 > ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Apache%20Maven)
 > ![Confluence](https://img.shields.io/badge/confluence-%23ffffff.svg?style=flat-square&logoColor=151515&logo=confluence)
@@ -298,30 +299,29 @@ Software Engineer | Cloud | Automation
 > ![Flask](https://img.shields.io/badge/-Flask-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Flask)
 > ![Nginx](https://img.shields.io/badge/nginx-%23ffffff.svg?style=flat-square&logoColor=151515&logo=nginx)
 
-<hr style="border: 0; border-top: 1px dashed #eee;" />
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
-## ![‍🔍 Current Focus](https://img.shields.io/badge/🧑‍💻-Current%20Focus-%23ffffff?style=for-the-badge&labelColor=transparent)
+---
 
-<hr style="border: 0; border-top: 1px solid #eee;" />
+## ![‍🔍 Current Focus](https://img.shields.io/badge/🧑‍💻-Current%20Focus-%23ffffff?style=for-the-badge&labelColor=transparent)
 
 - Building cross-platform automation workflows.
 - Improving cloud deployment pipelines and release engineering.
 - Developing flexible Python plugin-based architectures.
 
-<hr style="border: 0; border-top: 1px dashed #eee;" />
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
-## ![‍🌟 Profession](https://img.shields.io/badge/🌟-Featured%20Repositories-%23ffffff?style=for-the-badge&labelColor=transparent)
+---
 
-
-<hr style="border: 0; border-top: 1px solid #eee;" />
+## ![‍🌟 Featured](https://img.shields.io/badge/🌟-Featured-%23ffffff?style=for-the-badge&labelColor=transparent)
 
 - [code_plugin](https://github.com/RampantLions/coder_plugin) — Flexible plugin framework for Python projects.
 
-<hr style="border: 0; border-top: 1px dashed #eee;" />
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
@@ -464,7 +464,7 @@ Google is a global technology company specializing in search, advertising, cloud
 - Hardware Troubleshooting: Installed, tested, and repaired server hardware.
 - Data Center Operations: Supported Google's search infrastructure expansion.
 
-<hr style="border: 0; border-top: 1px dashed #eee;" />
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
@@ -551,7 +551,7 @@ Bellevue University is a private nonprofit university focused on adult education
 - Application of Data Analysis: Data interpretation and modeling — aligned with work on analytics services and system monitoring.
 - Capitalism & Economic Reasoning: Economic system fundamentals — indirectly relevant to business acumen when working on financial-related technical projects (PayPal integrations, Amazon Advertising).
 
-<hr style="border: 0; border-top: 1px dashed #eee;" />
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
@@ -565,8 +565,10 @@ Bellevue University is a private nonprofit university focused on adult education
 > **LinkedIn** [@wiechman](https://linkedin.com/in/wiechman) &nbsp;&middot;&nbsp;
 > **Twitter** [@RampantLions](https://twitter.com/RampantLions)
 
-<hr style="border: 0; border-top: 1px dashed #eee;" />
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
+
+---
 
 <!-- END RampantLions README.MD BLOCK -->
