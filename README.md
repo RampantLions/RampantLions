@@ -97,105 +97,105 @@ Software Engineer | Cloud | Automation
 
 ### ![☁️ Cloud](https://img.shields.io/badge/☁️-Cloud-%23ffffff?style=for-the-badge&labelColor=%23eee)
 
-> #### ![🖥 Compute Services](https://img.shields.io/badge/🖥-Compute%20Services-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![Amazon APIG (API Gateway)](https://img.shields.io/badge/Amazon%20APIG%20%28API%20Gateway%29-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonapigateway)
-> > ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-ec2)
-> > ![Amazon ECS (Elastic Container Service)](https://img.shields.io/badge/Amazon%20ECS%20%28Elastic%20Container%20Service%29-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonecs)
-> > ![Amazon EKS (Elastic Kubernetes Service)](https://img.shields.io/badge/Amazon%20EKS%20%28Elastic%20Kubernetes%20Service%29-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoneks)
-> > ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23ffffff.svg?style=flat-square&logoColor=151515&logo=aws-lambda)
-> > ![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-fargate)
-> > ![Amazon Lightsail](https://img.shields.io/badge/Amazon%20Lightsail-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Batch](https://img.shields.io/badge/AWS%20Batch-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![📦️ Storage Services](https://img.shields.io/badge/📦️-Storage%20Services-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-s3)
-> > ![Amazon EBS](https://img.shields.io/badge/Amazon%20EBS-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon EFS](https://img.shields.io/badge/Amazon%20EFS-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon Glacier](https://img.shields.io/badge/Amazon%20Glacier-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Backup](https://img.shields.io/badge/AWS%20Backup-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![🗄️ Database Services](https://img.shields.io/badge/🗄️-Database%20Services-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-rds)
-> > ![Amazon DocumentDB](https://img.shields.io/badge/Amazon%20DocumentDB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazondocumentdb)
-> > ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-dynamodb)
-> > ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-aurora)
-> > ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-redshift)
-> > ![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonelasticache)
-> 
-> #### ![🌐 Networking & Content Delivery](https://img.shields.io/badge/🌐-Networking%20%26%20Content%20Delivery-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonroute53)
-> > ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-aws)
-> > ![AWS Direct Connect](https://img.shields.io/badge/AWS%20Direct%20Connect-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS ELB (Elastic Load Balancer)](https://img.shields.io/badge/AWS%20ELB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=awselasticloadbalancing)
-> > ![AWS Global Accelerator](https://img.shields.io/badge/AWS%20Global%20Accelerator-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![🔐 Security, Identity, & Compliance](https://img.shields.io/badge/🔐-Security%2C+Identity%2C%20%26%20Compliance-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoncognito)
-> > ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoniam)
-> > ![AWS KMS](https://img.shields.io/badge/AWS%20KMS-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Secrets Manager](https://img.shields.io/badge/AWS%20Secrets%20Manager-%23ffffff.svg?style=flat-square&logoColor=151515&logo=awssecretsmanager)
-> > ![AWS Shield](https://img.shields.io/badge/AWS%20Shield-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS STS](https://img.shields.io/badge/AWS%20STS-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS WAF](https://img.shields.io/badge/AWS%20WAF-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![📊 Analytics](https://img.shields.io/badge/📊%20Analytics-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Data Pipeline](https://img.shields.io/badge/AWS%20Data%20Pipeline-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![🤖 Machine Learning](https://img.shields.io/badge/🤖-Machine%20Learning-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon Comprehend](https://img.shields.io/badge/Amazon%20Comprehend-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Rekognition-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon Polly](https://img.shields.io/badge/Amazon%20Polly-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![🧰 Developer Tools](https://img.shields.io/badge/🧰-Developer%20Tools-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Cloud9](https://img.shields.io/badge/AWS%20Cloud9-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![🔄 Application Integration](https://img.shields.io/badge/🔄-Application%20Integration-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![Amazon SES (Simple Email Service)](https://img.shields.io/badge/Amazon%20SQS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonsimpleemailservice)
-> > ![Amazon SQS (Simple Queue Service)](https://img.shields.io/badge/Amazon%20SQS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonsqs)
-> > ![Amazon SNS (Simple Notification Service)](https://img.shields.io/badge/Amazon%20SNS-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![Amazon MQ](https://img.shields.io/badge/Amazon%20MQ-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS AppSync](https://img.shields.io/badge/AWS%20AppSync-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![📥 Migration & Transfer](https://img.shields.io/badge/📥-Migration%20%26%20Transfer-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![AWS Migration Hub](https://img.shields.io/badge/AWS%20Migration%20Hub-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Snowball](https://img.shields.io/badge/AWS%20Snowball-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS DMS](https://img.shields.io/badge/AWS%20DMS-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Transfer Family](https://img.shields.io/badge/AWS%20Transfer%20Family-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS DataSync](https://img.shields.io/badge/AWS%20DataSync-%23ffffff.svg?style=flat-square&logoColor=151515)
-> 
-> #### ![📈 Management & Governance](https://img.shields.io/badge/📈-Management%20%26%20Governance-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> > ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoncloudwatch)
-> > ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Config](https://img.shields.io/badge/AWS%20Config-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS Systems Manager](https://img.shields.io/badge/AWS%20Systems%20Manager-%23ffffff.svg?style=flat-square&logoColor=151515)
-> > ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-%23ffffff.svg?style=flat-square&logoColor=151515)
+#### ![🖥 Compute Services](https://img.shields.io/badge/🖥-Compute%20Services-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Amazon APIG (API Gateway)](https://img.shields.io/badge/Amazon%20APIG%20%28API%20Gateway%29-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonapigateway)
+> ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-ec2)
+> ![Amazon ECS (Elastic Container Service)](https://img.shields.io/badge/Amazon%20ECS%20%28Elastic%20Container%20Service%29-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonecs)
+> ![Amazon EKS (Elastic Kubernetes Service)](https://img.shields.io/badge/Amazon%20EKS%20%28Elastic%20Kubernetes%20Service%29-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoneks)
+> ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23ffffff.svg?style=flat-square&logoColor=151515&logo=aws-lambda)
+> ![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-fargate)
+> ![Amazon Lightsail](https://img.shields.io/badge/Amazon%20Lightsail-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Batch](https://img.shields.io/badge/AWS%20Batch-%23ffffff.svg?style=flat-square&logoColor=151515)
+ 
+#### ![📦️ Storage Services](https://img.shields.io/badge/📦️-Storage%20Services-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-s3)
+> ![Amazon EBS](https://img.shields.io/badge/Amazon%20EBS-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon EFS](https://img.shields.io/badge/Amazon%20EFS-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon Glacier](https://img.shields.io/badge/Amazon%20Glacier-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Backup](https://img.shields.io/badge/AWS%20Backup-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![🗄️ Database Services](https://img.shields.io/badge/🗄️-Database%20Services-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-rds)
+> ![Amazon DocumentDB](https://img.shields.io/badge/Amazon%20DocumentDB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazondocumentdb)
+> ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-dynamodb)
+> ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-aurora)
+> ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-redshift)
+> ![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonelasticache)
+
+#### ![🌐 Networking & Content Delivery](https://img.shields.io/badge/🌐-Networking%20%26%20Content%20Delivery-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonroute53)
+> ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazon-aws)
+> ![AWS Direct Connect](https://img.shields.io/badge/AWS%20Direct%20Connect-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS ELB (Elastic Load Balancer)](https://img.shields.io/badge/AWS%20ELB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=awselasticloadbalancing)
+> ![AWS Global Accelerator](https://img.shields.io/badge/AWS%20Global%20Accelerator-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![🔐 Security, Identity, & Compliance](https://img.shields.io/badge/🔐-Security%2C+Identity%2C%20%26%20Compliance-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoncognito)
+> ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoniam)
+> ![AWS KMS](https://img.shields.io/badge/AWS%20KMS-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Secrets Manager](https://img.shields.io/badge/AWS%20Secrets%20Manager-%23ffffff.svg?style=flat-square&logoColor=151515&logo=awssecretsmanager)
+> ![AWS Shield](https://img.shields.io/badge/AWS%20Shield-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS STS](https://img.shields.io/badge/AWS%20STS-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS WAF](https://img.shields.io/badge/AWS%20WAF-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![📊 Analytics](https://img.shields.io/badge/📊%20Analytics-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Data Pipeline](https://img.shields.io/badge/AWS%20Data%20Pipeline-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![🤖 Machine Learning](https://img.shields.io/badge/🤖-Machine%20Learning-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon Comprehend](https://img.shields.io/badge/Amazon%20Comprehend-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Rekognition-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon Polly](https://img.shields.io/badge/Amazon%20Polly-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![🧰 Developer Tools](https://img.shields.io/badge/🧰-Developer%20Tools-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Cloud9](https://img.shields.io/badge/AWS%20Cloud9-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![🔄 Application Integration](https://img.shields.io/badge/🔄-Application%20Integration-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Amazon SES (Simple Email Service)](https://img.shields.io/badge/Amazon%20SQS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonsimpleemailservice)
+> ![Amazon SQS (Simple Queue Service)](https://img.shields.io/badge/Amazon%20SQS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazonsqs)
+> ![Amazon SNS (Simple Notification Service)](https://img.shields.io/badge/Amazon%20SNS-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Amazon MQ](https://img.shields.io/badge/Amazon%20MQ-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS AppSync](https://img.shields.io/badge/AWS%20AppSync-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![📥 Migration & Transfer](https://img.shields.io/badge/📥-Migration%20%26%20Transfer-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![AWS Migration Hub](https://img.shields.io/badge/AWS%20Migration%20Hub-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Snowball](https://img.shields.io/badge/AWS%20Snowball-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS DMS](https://img.shields.io/badge/AWS%20DMS-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Transfer Family](https://img.shields.io/badge/AWS%20Transfer%20Family-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS DataSync](https://img.shields.io/badge/AWS%20DataSync-%23ffffff.svg?style=flat-square&logoColor=151515)
+
+#### ![📈 Management & Governance](https://img.shields.io/badge/📈-Management%20%26%20Governance-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23ffffff.svg?style=flat-square&logoColor=151515&logo=amazoncloudwatch)
+> ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Config](https://img.shields.io/badge/AWS%20Config-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS Systems Manager](https://img.shields.io/badge/AWS%20Systems%20Manager-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-%23ffffff.svg?style=flat-square&logoColor=151515)
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![🗄️ Databases](https://img.shields.io/badge/🗄️-Databases-%23ffffff?style=for-the-badge&labelColor=%23eee)
 
-> #### ![🗃️ Relational (SQL)](https://img.shields.io/badge/🗃-Relational%20%28SQL%29-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+#### ![🗃️ Relational (SQL)](https://img.shields.io/badge/🗃-Relational%20%28SQL%29-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
 > ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-%23ffffff.svg?style=flat-square&logoColor=151515&logo=microsoft-access)
 > ![MySQL](https://img.shields.io/badge/mysql-%23ffffff.svg?style=flat-square&logoColor=151515&logo=mysql)
 > ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23ffffff.svg?style=flat-square&logoColor=151515&logo=PostgreSQL)
 > ![SQLite](https://img.shields.io/badge/sqlite-%23ffffff.svg?style=flat-square&logoColor=151515&logo=sqlite)
-> 
-> #### ![🧩 NoSQL](https://img.shields.io/badge/🧩-NoSQL-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+
+#### ![🧩 NoSQL](https://img.shields.io/badge/🧩-NoSQL-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
 > ![CouchDB](https://img.shields.io/badge/CouchDB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=apachecouchdb)
 > ![MongoDB](https://img.shields.io/badge/-MongoDB-%23ffffff.svg?style=flat-square&logoColor=151515&logo=MongoDB)
 > ![NoSQL](https://img.shields.io/badge/NoSQL-%23ffffff.svg?style=flat-square&logoColor=151515&logo=nosql)
@@ -203,7 +203,6 @@ Software Engineer | Cloud | Automation
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![🧱 DevOps / Infrastructure](https://img.shields.io/badge/🧱-DevOps%20%2F%20Infrastructure-%23ffffff?style=for-the-badge&labelColor=%23eee)
-
 > ![Docker](https://img.shields.io/badge/-Docker-%23ffffff.svg?style=flat-square&logo=Docker&logoColor=151515)
 > ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23ffffff.svg?style=flat-square&logoColor=151515&logo=githubactions)
 > ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Kubernetes)
@@ -211,7 +210,6 @@ Software Engineer | Cloud | Automation
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![🧭 Engineering Practices](https://img.shields.io/badge/🧭-Engineering%20Practices-%23ffffff?style=for-the-badge&labelColor=%23eee)
-
 > ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%23ffffff.svg?style=flat-square&logoColor=151515)
 > ![Continuous Deployment](https://img.shields.io/badge/Continuous%20Deployment-%23ffffff.svg?style=flat-square&logoColor=151515)
 > ![Continuous Integration](https://img.shields.io/badge/Continuous%20Integration-%23ffffff.svg?style=flat-square&logoColor=151515)
@@ -222,29 +220,26 @@ Software Engineer | Cloud | Automation
 
 ### ![🧩 Frameworks, APIs, & Protocols](https://img.shields.io/badge/🧩-Frameworks%2C%20APIs%2C%20%26%20Protocols-%23ffffff?style=for-the-badge&labelColor=%23eee)
 
-> #### ![🧪 Testing & API Development](https://img.shields.io/badge/🧪-Testing%20%26%20API%20Development-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> 
-> > ![Pytest](https://img.shields.io/badge/Pytest-%23ffffff.svg?style=flat-square&logo=pytest&logoColor=151515)
-> > ![Swagger](https://img.shields.io/badge/-Swagger-%23ffffff.svg?style=flat-square&logo=swagger&logoColor=151515)
-> > ![FastAPI](https://img.shields.io/badge/FastAPI-%23ffffff.svg?style=flat-square&logo=fastapi&logoColor=151515)
-> > ![Flask](https://img.shields.io/badge/flask-%23ffffff.svg?style=flat-square&logo=flask&logoColor=151515)
-> > ![Express.js](https://img.shields.io/badge/express.js-%23ffffff.svg?style=flat-square&logo=express&logoColor=151515)
-> > ![jQuery](https://img.shields.io/badge/jquery-%23ffffff.svg?style=flat-square&logo=jquery&logoColor=151515)
-> > ![Hibernate](https://img.shields.io/badge/Hibernate-%23ffffff.svg?style=flat-square&logo=Hibernate&logoColor=151515)
-> 
-> #### ![🔗 Communication & API Protocols](https://img.shields.io/badge/🔗-Communication%20%26%20API%20Protocols-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> 
-> > ![REST](https://img.shields.io/badge/REST-%23ffffff.svg?style=flat-square&logo=rest&logoColor=151515)
-> > ![SOAP](https://img.shields.io/badge/SOAP-%23ffffff.svg?style=flat-square&logo=soap&logoColor=151515)
-> > ![AJAX](https://img.shields.io/badge/AJAX-%23ffffff.svg?style=flat-square&logo=ajax&logoColor=151515)
-> > ![gRPC](https://img.shields.io/badge/gRPC-%23ffffff.svg?style=flat-square&logo=gRPC&logoColor=151515)
-> > ![Protobuf](https://img.shields.io/badge/Protobuf-%23ffffff.svg?style=flat-square&logo=protobuf&logoColor=151515)
-> > ![tRPC](https://img.shields.io/badge/tRPC-%23ffffff.svg?style=flat-square&logo=tRPC&logoColor=151515)
+#### ![🧪 Testing & API Development](https://img.shields.io/badge/🧪-Testing%20%26%20API%20Development-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Pytest](https://img.shields.io/badge/Pytest-%23ffffff.svg?style=flat-square&logo=pytest&logoColor=151515)
+> ![Swagger](https://img.shields.io/badge/-Swagger-%23ffffff.svg?style=flat-square&logo=swagger&logoColor=151515)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-%23ffffff.svg?style=flat-square&logo=fastapi&logoColor=151515)
+> ![Flask](https://img.shields.io/badge/flask-%23ffffff.svg?style=flat-square&logo=flask&logoColor=151515)
+> ![Express.js](https://img.shields.io/badge/express.js-%23ffffff.svg?style=flat-square&logo=express&logoColor=151515)
+> ![jQuery](https://img.shields.io/badge/jquery-%23ffffff.svg?style=flat-square&logo=jquery&logoColor=151515)
+> ![Hibernate](https://img.shields.io/badge/Hibernate-%23ffffff.svg?style=flat-square&logo=Hibernate&logoColor=151515)
+
+#### ![🔗 Communication & API Protocols](https://img.shields.io/badge/🔗-Communication%20%26%20API%20Protocols-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![REST](https://img.shields.io/badge/REST-%23ffffff.svg?style=flat-square&logo=rest&logoColor=151515)
+> ![SOAP](https://img.shields.io/badge/SOAP-%23ffffff.svg?style=flat-square&logo=soap&logoColor=151515)
+> ![AJAX](https://img.shields.io/badge/AJAX-%23ffffff.svg?style=flat-square&logo=ajax&logoColor=151515)
+> ![gRPC](https://img.shields.io/badge/gRPC-%23ffffff.svg?style=flat-square&logo=gRPC&logoColor=151515)
+> ![Protobuf](https://img.shields.io/badge/Protobuf-%23ffffff.svg?style=flat-square&logo=protobuf&logoColor=151515)
+> ![tRPC](https://img.shields.io/badge/tRPC-%23ffffff.svg?style=flat-square&logo=tRPC&logoColor=151515)
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![📝 Markup / Data Formats](https://img.shields.io/badge/📝-Markup%20%2F%20Data%20Formats-%23ffffff?style=for-the-badge&labelColor=%23eee)
-
 > ![CSS3](https://img.shields.io/badge/CSS3-%23ffffff.svg?style=flat-square&logo=css3&logoColor=151515)
 > ![HTML5](https://img.shields.io/badge/HTML5-%23ffffff.svg?style=flat-square&logo=html5&logoColor=151515)
 > ![JSON](https://img.shields.io/badge/json-%23ffffff.svg?style=flat-square&logo=json&logoColor=151515)
@@ -256,14 +251,12 @@ Software Engineer | Cloud | Automation
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![🛡️ Networking & Orchestration](https://img.shields.io/badge/🛡-Networking%20%26%20Orchestration-%23ffffff?style=for-the-badge&labelColor=%23eee)
-
 > ![Wireguard](https://img.shields.io/badge/wireguard-%23ffffff.svg?style=flat-square&logoColor=151515&logo=wireguard)
 > ![Rancher](https://img.shields.io/badge/rancher-%23ffffff.svg?style=flat-square&logoColor=151515&logo=rancher)
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![💻 Programming Languages](https://img.shields.io/badge/💻-Programming%20Languages-%23ffffff?style=for-the-badge&labelColor=%23eee)
-
 > ![Bash](https://img.shields.io/badge/-Bash-%23ffffff.svg?style=flat-square&logoColor=151515&logo=gnubash)
 > ![C++](https://img.shields.io/badge/-C%2B%2B-%23ffffff.svg?style=flat-square&logoColor=151515&logo=c%2B%2B)
 > ![C#](https://img.shields.io/badge/-C%23-%23ffffff.svg?style=flat-square&logoColor=151515&logo=dotnet)
@@ -282,27 +275,24 @@ Software Engineer | Cloud | Automation
 
 ### ![🖥 Systems / Environments](https://img.shields.io/badge/🖥-Systems%20%2F%20Environments-%23ffffff?style=for-the-badge&labelColor=%23eee)
 
-> #### ![🖥 Operating Systems](https://img.shields.io/badge/🖥-Operating%20Systems-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> 
-> > ![Linux](https://img.shields.io/badge/Linux-%23ffffff.svg?style=flat-square&logoColor=151515&logo=linux)
-> > ![MacOS](https://img.shields.io/badge/MacOS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=apple)
-> > ![Windows](https://img.shields.io/badge/Windows-%23ffffff.svg?style=flat-square&logoColor=151515&logo=windows)
-> 
-> #### ![🛠 Development Tools](https://img.shields.io/badge/🛠-Development%20Tools-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> 
-> > ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Apache%20Maven)
-> > ![Confluence](https://img.shields.io/badge/confluence-%23ffffff.svg?style=flat-square&logoColor=151515&logo=confluence)
-> > ![GitHub](https://img.shields.io/badge/github-%23ffffff.svg?style=flat-square&logoColor=151515&logo=github)
-> > ![GithubPages](https://img.shields.io/badge/github%20pages-%23ffffff.svg?style=flat-square&logoColor=151515&logo=github) 
-> > ![Postman](https://img.shields.io/badge/Postman-%23ffffff.svg?style=flat-square&logoColor=151515&logo=postman)
-> > ![Jenkins](https://img.shields.io/badge/jenkins-%23ffffff.svg?style=flat-square&logoColor=151515&logo=jenkins)
-> > ![Jira](https://img.shields.io/badge/jira-%23ffffff.svg?style=flat-square&logoColor=151515&logo=jira)
-> > ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Visual-Studio-Code)
+#### ![🖥 Operating Systems](https://img.shields.io/badge/🖥-Operating%20Systems-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Linux](https://img.shields.io/badge/Linux-%23ffffff.svg?style=flat-square&logoColor=151515&logo=linux)
+> ![MacOS](https://img.shields.io/badge/MacOS-%23ffffff.svg?style=flat-square&logoColor=151515&logo=apple)
+> ![Windows](https://img.shields.io/badge/Windows-%23ffffff.svg?style=flat-square&logoColor=151515&logo=windows)
+
+#### ![🛠 Development Tools](https://img.shields.io/badge/🛠-Development%20Tools-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
+> ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Apache%20Maven)
+> ![Confluence](https://img.shields.io/badge/confluence-%23ffffff.svg?style=flat-square&logoColor=151515&logo=confluence)
+> ![GitHub](https://img.shields.io/badge/github-%23ffffff.svg?style=flat-square&logoColor=151515&logo=github)
+> ![GithubPages](https://img.shields.io/badge/github%20pages-%23ffffff.svg?style=flat-square&logoColor=151515&logo=github) 
+> ![Postman](https://img.shields.io/badge/Postman-%23ffffff.svg?style=flat-square&logoColor=151515&logo=postman)
+> ![Jenkins](https://img.shields.io/badge/jenkins-%23ffffff.svg?style=flat-square&logoColor=151515&logo=jenkins)
+> ![Jira](https://img.shields.io/badge/jira-%23ffffff.svg?style=flat-square&logoColor=151515&logo=jira)
+> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Visual-Studio-Code)
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![🌐 Web Development, Servers, & Reverse Proxies](https://img.shields.io/badge/🌐-Web+Development%2C+Servers%2C+%26+Reverse+Proxies-%23ffffff?style=for-the-badge&labelColor=%23eee)
-
 > ![Apache](https://img.shields.io/badge/apache-%23ffffff.svg?style=flat-square&logoColor=151515&logo=apache)
 > ![Django](https://img.shields.io/badge/-Django-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Django)
 > ![Flask](https://img.shields.io/badge/-Flask-%23ffffff.svg?style=flat-square&logoColor=151515&logo=Flask)
