@@ -327,7 +327,7 @@ Software Engineer | Cloud | Automation
 
 ---
 
-## ![‍🧑‍💻 Profession](https://img.shields.io/badge/🧑‍💻-Profession-%23ffffff?style=for-the-badge&labelColor=transparent)
+## ![‍💻 Profession](https://img.shields.io/badge/💻-Profession-%23ffffff?style=for-the-badge&labelColor=transparent)
 
 <hr style="border: 0; border-top: 1px solid #eee;" />
 
