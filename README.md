@@ -4,7 +4,7 @@
 
 Software Engineer | Cloud | Automation
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/wiechman/) [[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com) [![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/wiechman/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com) [![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions)
 
 [//]: # ([![Reddit]&#40;https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions&#41;]&#40;https://www.reddit.com/&#41;)
 
@@ -79,19 +79,17 @@ With my diverse set of skills, including architecting, development, mentoring, a
 
 ## 🎓 Education History
 
+<div style="display: flex; align-items: center; gap: 16px;">
+  <div>
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/uno/uno_logo.jpg?raw=true" style="max-height: 75px;" />
+  </div>
+  <div>
+    <h3 style="margin: 0;">University of Nebraska at Omaha</h3>
+    <p style="margin: 4px 0;">Bachelor of Science (B.Sc.), Computer Science, Mathematics minor</p>
+    <p style="margin: 4px 0;"><i>Graduated — Omaha, Nebraska</i></p>
+  </div>
+</div>
 
-<table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-        <td style="border: none;padding: 0; border-spacing: 0;">
-            <img src="://raw.githubusercontent.com/RampantLions/RampantLions/refs/heads/main/assets/images/education/unomaha/unomaha_logo.jpg" />
-        </td>
-        <td style="border: none;padding: 0; border-spacing: 0;">
-            <h3>University of Nebraska at Omaha</h3>
-            <p>Bachelor of Science (B.Sc.), Computer Science, Mathematics minor</p>
-            <p><i>Graduated — Omaha, Nebraska</i></p>
-        </td>
-    </tr>
-</table>
 
 - Focus: Internet Technologies
 - Minor: Mathematics
@@ -101,7 +99,7 @@ Activities and societies: Student Government Election Commissioner, Student Gove
 
 University of Nebraska Omaha is a public metropolitan research university offering strong technical and engineering programs with a focus on applied sciences and information technology.
 
-Institution's description: UNO was the first Nebraska university to receive computer science accreditation from the Computing Accreditation Commission of ABET. The Department offers a number of interdisciplinary courses that are cross-taught by instructors from other related fields.
+**Institution's description:** The University of Nebraska–Omaha was the first Nebraska university to receive computer science accreditation from the Computing Accreditation Commission of ABET. The Department offers a number of interdisciplinary courses that are cross-taught by instructors from other related fields.
 
 **Relevant Coursework and Skills:**
 - Data Structures: Study of linked lists, trees, graphs, and algorithmic efficiency — foundational for building performant backend services and cloud systems.
@@ -116,8 +114,41 @@ Institution's description: UNO was the first Nebraska university to receive comp
 - Principles of Programming Languages: Language paradigms and compiler design concepts — enhanced ability to work across multiple languages (Ruby, JavaScript, Python).
 - Organizations, Applications, and Technologies: Study of IT enterprise environments — directly relevant to work in multi-organization cloud environments (AWS, NBCUniversal).
 
-### Bellevue University — MBA Coursework (Incomplete)
-*Bellevue, NE — 2014–2015*
+
+<div style="display: flex; align-items: center; gap: 16px;">
+  <div>
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/unl/unl_logo.jpg?raw=true" style="max-height: 70px;" />
+  </div>
+  <div>
+    <h3 style="margin: 0;">University of Nebraska at Lincoln</h3>
+    <p style="margin: 4px 0;">Computer Science</p>
+    <p style="margin: 4px 0;"><i>Inter-campus Student — Lincoln, Nebraska </i></p>
+  </div>
+</div>
+
+**Institution's description:** The University of Nebraska–Lincoln School of Computing offers Nebraska’s only comprehensive program of higher education, research, and service outreach in computer science, computer engineering, and software engineering.
+
+The School of Computing offers a challenging baccalaureate degree program in computer science that prepares graduates for professional practice as computer scientists, provides the basis for advanced studies in the field, and establishes a foundation for lifelong learning and achievement. The bachelor of science degree in computer science is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org.
+University of Nebraska Inter-campus Student Institution's description: The University of Nebraska–Lincoln School of Computing offers Nebraska’s only comprehensive program of higher education, research, and service outreach in computer science, computer engineering, and software engineering. The School of Computing offers a challenging baccalaureate degree program in computer science that prepares graduates for professional practice as computer scientists, provides the basis for advanced studies in the field, and establishes a foundation for lifelong learning and achievement. The bachelor of science degree in computer science is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org.
+
+**Relevant Coursework and Skills:**
+· HTML
+· Linux · Web Development
+· Object Oriented Design (OOD)
+· Object-Oriented Programming (OOP)
+
+
+
+<div style="display: flex; align-items: center; gap: 16px;">
+  <div>
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/bellevue_university/bellevue_university_logo.jpg?raw=true" style="max-height: 75px;" />
+  </div>
+  <div>
+    <h3 style="margin: 0;">Bellevue University</h3>
+    <p style="margin: 4px 0;">MBA Coursework (50% Complete)</p>
+    <p style="margin: 4px 0;"><i>Bellevue, NE — *degree incomplete* 2014–2015</i></p>
+  </div>
+</div>
 
 Bellevue University is a private nonprofit university focused on adult education and applied learning for business, leadership, and technology fields.
 
