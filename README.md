@@ -79,12 +79,29 @@ With my diverse set of skills, including architecting, development, mentoring, a
 
 ## 🎓 Education History
 
-### University of Nebraska Omaha — Bachelor of Science in Computer Science
-*Graduated 2007 — Omaha, NE*
+
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+        <td style="border: none;padding: 0; border-spacing: 0;">
+            <img src="://raw.githubusercontent.com/RampantLions/RampantLions/refs/heads/main/assets/images/education/unomaha/unomaha_logo.jpg" />
+        </td>
+        <td style="border: none;padding: 0; border-spacing: 0;">
+            <h3>University of Nebraska at Omaha</h3>
+            <p>Bachelor of Science (B.Sc.), Computer Science, Mathematics minor</p>
+            <p><i>Graduated — Omaha, Nebraska</i></p>
+        </td>
+    </tr>
+</table>
+
 - Focus: Internet Technologies
 - Minor: Mathematics
 
+Activities and societies: Student Government Election Commissioner, Student Government Senior Class Senator, Be-A-Mav website personality, Student Faculty Liaison, Judicial & EEO Review Board, Learning & Education Resource CommitteeActivities and societies: Student Government Election Commissioner, Student Government Senior Class Senator, Be-A-Mav website personality, Student Faculty Liaison, Judicial & EEO Review Board, Learning & Education Resource Committee
+𝐃𝐞𝐭𝐚𝐢𝐥𝐬: Computer Science w/ minor in Mathematics
+
 University of Nebraska Omaha is a public metropolitan research university offering strong technical and engineering programs with a focus on applied sciences and information technology.
+
+Institution's description: UNO was the first Nebraska university to receive computer science accreditation from the Computing Accreditation Commission of ABET. The Department offers a number of interdisciplinary courses that are cross-taught by instructors from other related fields.
 
 **Relevant Coursework and Skills:**
 - Data Structures: Study of linked lists, trees, graphs, and algorithmic efficiency — foundational for building performant backend services and cloud systems.
