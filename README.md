@@ -305,7 +305,7 @@ Software Engineer | Cloud | Automation
 
 ---
 
-## ![‍🔍 Current Focus](https://img.shields.io/badge/🧑‍💻-Current%20Focus-%23ffffff?style=for-the-badge&labelColor=transparent)
+## ![‍🔍 Current Focus](https://img.shields.io/badge/🔍-Current%20Focus-%23ffffff?style=for-the-badge&labelColor=transparent)
 
 - Building cross-platform automation workflows.
 - Improving cloud deployment pipelines and release engineering.
