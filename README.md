@@ -4,7 +4,12 @@
 
 Software Engineer | Cloud | Automation
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=25)](https://www.linkedin.com/in/wiechman/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com) [![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions) [![Github Pages](https://img.shields.io/badge/-GitHub%20Pages-%23ffffff?style=flat&logo=github&logoColor=black&logoWidth=20)](https://rampantlions.github.io/) [![Medium](https://img.shields.io/badge/-Medium-%23ffffff?style=flat&logo=medium&logoColor=black)](https://medium.com/@RampantLions/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=25)](https://www.linkedin.com/in/wiechman/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com)
+[![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions)
+[![Github Gists](https://img.shields.io/badge/-GitHub%20Gists-%23ffffff?style=flat&logo=github&logoColor=black&logoWidth=20)](https://gist.github.com/RampantLions)
+[![Github Pages](https://img.shields.io/badge/-GitHub%20Pages-%23ffffff?style=flat&logo=github&logoColor=black&logoWidth=20)](https://rampantlions.github.io/)
+[![Medium](https://img.shields.io/badge/-Medium-%23ffffff?style=flat&logo=medium&logoColor=black)](https://medium.com/@RampantLions/)
 
 
 [//]: # ([![Reddit]&#40;https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions&#41;]&#40;https://www.reddit.com/&#41;)
