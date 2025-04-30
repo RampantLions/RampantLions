@@ -4,15 +4,41 @@
 
 Software Engineer | Cloud | Automation
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/wiechman/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com) [![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions) [![Reddit](https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions)](https://www.reddit.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/wiechman/) [[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josh.wiechman@gmail.com) [![Github](https://img.shields.io/github/followers/RampantLions?label=Follow&style=social)](https://github.com/rampantlions)
 
-<a href="" target="_blank"><img src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Reddit"/></a>&nbsp;
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/RampantLions/coder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on LinkedIn"/></a>&nbsp;
-<a href="https://x.com/intent/tweet?text=%23AREG%20%23realtime%20communication%20engine%20for%20%23embedded%20and%20%23IoT%0A%0Ahttps%3A//github.com/RampantLions/coder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=X&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Shared on X"/></a>&nbsp;
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/RampantLions/coder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Facebook"/></a>&nbsp;
-<a href="https://t.me/share/url?text=Awesome%20communication%20engine!&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Telegram"/></a>&nbsp;
-<a href="https://wa.me/?text=Awesome%20communication%20engine!%5Cn%20https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=Whatsapp&logo=Whatsapp&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Whatsapp"/></a>&nbsp;
-<a href="mailto:?subject=Awesome%20communication%20engine&body=Checkout%20this%20awesome%20communication%20engine%3A%0Ahttps%3A//github.com/RampantLions/coder_plugin%0A" target="_blank"><img src="https://img.shields.io/twitter/url?label=GMail&logo=GMail&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin"/></a>
+[//]: # ([![Reddit]&#40;https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions&#41;]&#40;https://www.reddit.com/&#41;)
+
+[//]: # (<a href="" target="_blank"><img src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Reddit"/></a>&nbsp;)
+
+[//]: # (<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/RampantLions/coder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on LinkedIn"/></a>&nbsp;)
+
+[//]: # (<a href="https://x.com/intent/tweet?text=%23AREG%20%23realtime%20communication%20engine%20for%20%23embedded%20and%20%23IoT%0A%0Ahttps%3A//github.com/RampantLions/coder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=X&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Shared on X"/></a>&nbsp;)
+
+[//]: # (<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/RampantLions/coder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Facebook"/></a>&nbsp;)
+
+[//]: # (<a href="https://t.me/share/url?text=Awesome%20communication%20engine!&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" target="_blank"><img src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Telegram"/></a>&nbsp;)
+
+[//]: # (<a href="https://wa.me/?text=" target="_blank"><img src="https://img.shields.io/twitter/url?label=Whatsapp&logo=Whatsapp&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin" alt="Share on Whatsapp"/></a>&nbsp;)
+
+[//]: # (<a href="mailto:josh.wiechman@gmail.com" target="_blank"><img src="https://img.shields.io/twitter/url?label=GMail&logo=GMail&style=social&url=https%3A%2F%2Fgithub.com%2FRampantLions%2Fcoder_plugin"/></a>)
+
+[//]: # (    <a class="facebook" title="Facebook" data-placement="top" data-original-title="Facebook" href="https://www.facebook.com/wiechman"><img src="assets/images/social/facebook.png" alt="facebook"/></a>)
+
+[//]: # (    <a class="twitter" title="Twitter" data-placement="top" data-original-title="Twitter" href="https://twitter.com/JoshWiechman"><img src="assets/images/social/twitter.png" alt="twitter"/></a>)
+
+[//]: # (    <a class="skype" title="Skype" data-placement="top" data-original-title="Skype" href="skype:josh.wiechman?userinfo"><img src="assets/images/social/skype.png" alt="skype"/></a>)
+
+[//]: # (    <a class="pinterest" title="Pinterest" data-placement="top" data-original-title="Pinterest" href="https://www.pinterest.com/RampantLions82/"><img src="assets/images/social/pinterest.png" alt="pinterest"/></a>)
+
+[//]: # (    <a class="icq" title="Icq" data-placement="top" data-original-title="Icq" href="http://www.icq.com/whitepages/cmd.php?uin=1420384&action=message"><img src="assets/images/social/icq.png" alt="icq"/></a>)
+
+[//]: # (    <!--a href="#" class="dropbox" title="Dropbox" data-placement="top" data-original-title="Dropbox"><img src="assets/images/social/dropbox.png" alt="dropbox"/></a-->)
+
+[//]: # (    <a class="soundcloud" title="Soundcloud" data-placement="top" data-original-title="Sondcloud" href="https://soundcloud.com/rampantlions/"><img src="assets/images/social/soundcloud.png" alt="soundcloud"/></a>)
+
+[//]: # (    <!--a href="#" class="instagram" title="Instagram" data-placement="top" data-original-title="Instagram"><img src="assets/images/social/instagram.png" alt="instagram"/></a-->)
+
+[//]: # (    <a class="gplus" title="Google Plus" data-placement="top" data-original-title="Google Plus" href="http://google.com/+JoshWiechman"><img src="assets/images/social/google.png" alt="google plus"/></a>)
 
 ---
 
