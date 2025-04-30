@@ -214,10 +214,12 @@ Software Engineer | Cloud | Automation
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![🧭 Engineering Practices](https://img.shields.io/badge/🧭-Engineering%20Practices-%23ffffff?style=for-the-badge&labelColor=%23eee)
-> ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%23ffffff.svg?style=flat-square&logoColor=151515)
-> ![Continuous Deployment](https://img.shields.io/badge/Continuous%20Deployment-%23ffffff.svg?style=flat-square&logoColor=151515)
-> ![Continuous Integration](https://img.shields.io/badge/Continuous%20Integration-%23ffffff.svg?style=flat-square&logoColor=151515)
-> ![Software Development Life Cycle](https://img.shields.io/badge/Software%20Development%20Life%20Cycle-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Agile](https://img.shields.io/badge/Agile-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![CD (Continuous Deployment)](https://img.shields.io/badge/CD%20%28Continuous%20Deployment%29-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![CI (Continuous Integration)](https://img.shields.io/badge/CI%20%28Continuous%20Integration%29-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Kanban](https://img.shields.io/badge/Kanban-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![Scrum](https://img.shields.io/badge/Scrum-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![SDLC (Software Development Life Cycle)](https://img.shields.io/badge/SDLC%20%28Software%20Development%20Life%20Cycle%29-%23ffffff.svg?style=flat-square&logoColor=151515)
 > ![Version Control](https://img.shields.io/badge/Version%20Control-%23ffffff.svg?style=flat-square&logoColor=151515)
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
@@ -225,12 +227,12 @@ Software Engineer | Cloud | Automation
 ### ![🧩 Frameworks, APIs, & Protocols](https://img.shields.io/badge/🧩-Frameworks%2C%20APIs%2C%20%26%20Protocols-%23ffffff?style=for-the-badge&labelColor=%23eee)
 
 #### ![🔗 Communication & API Protocols](https://img.shields.io/badge/🔗-Communication%20%26%20API%20Protocols-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
-> ![AJAX](https://img.shields.io/badge/AJAX-%23ffffff.svg?style=flat-square&logo=ajax&logoColor=151515)
-> ![gRPC](https://img.shields.io/badge/gRPC-%23ffffff.svg?style=flat-square&logo=gRPC&logoColor=151515)
+> ![AJAX (Asynchronous JavaScript and XML)](https://img.shields.io/badge/AJAX%20%28Asynchronous%20JavaScript%20and%20XML%29-%23ffffff.svg?style=flat-square&logo=ajax&logoColor=151515)
+> ![gRPC (Google Remote Procedure Call)](https://img.shields.io/badge/gRPC%20%28Google%20Remote%20Procedure%20Call%29-%23ffffff.svg?style=flat-square&logo=gRPC&logoColor=151515)
 > ![Protobuf](https://img.shields.io/badge/Protobuf-%23ffffff.svg?style=flat-square&logo=protobuf&logoColor=151515)
-> ![REST](https://img.shields.io/badge/REST-%23ffffff.svg?style=flat-square&logo=rest&logoColor=151515)
-> ![SOAP](https://img.shields.io/badge/SOAP-%23ffffff.svg?style=flat-square&logo=soap&logoColor=151515)
-> ![tRPC](https://img.shields.io/badge/tRPC-%23ffffff.svg?style=flat-square&logo=tRPC&logoColor=151515)
+> ![REST (Representational State Transfer)](https://img.shields.io/badge/REST%20%28Representational%20State%20Transfer%29-%23ffffff.svg?style=flat-square&logo=rest&logoColor=151515)
+> ![SOAP (Simple Object Access Protocol)](https://img.shields.io/badge/SOAP%28Simple%20Object%20Access%20Protocol%29-%23ffffff.svg?style=flat-square&logo=soap&logoColor=151515)
+> ![tRPC (TypeScript Remote Procedure Call)](https://img.shields.io/badge/tRPC%20%28TypeScript%20Remote%20Procedure%20Call%29-%23ffffff.svg?style=flat-square&logo=tRPC&logoColor=151515)
 
 #### ![🧪 Testing & API Development](https://img.shields.io/badge/🧪-Testing%20%26%20API%20Development-%23ffffff?style=for-the-badge&labelColor=%23ffffff)
 > ![Express.js](https://img.shields.io/badge/express.js-%23ffffff.svg?style=flat-square&logo=express&logoColor=151515)
@@ -244,13 +246,13 @@ Software Engineer | Cloud | Automation
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 ### ![📝 Markup / Data Formats](https://img.shields.io/badge/📝-Markup%20%2F%20Data%20Formats-%23ffffff?style=for-the-badge&labelColor=%23eee)
-> ![CSS3](https://img.shields.io/badge/CSS3-%23ffffff.svg?style=flat-square&logo=css3&logoColor=151515)
-> ![HTML5](https://img.shields.io/badge/HTML5-%23ffffff.svg?style=flat-square&logo=html5&logoColor=151515)
-> ![JSON](https://img.shields.io/badge/json-%23ffffff.svg?style=flat-square&logo=json&logoColor=151515)
-> ![SQL](https://img.shields.io/badge/SQL-%23ffffff.svg?style=flat-square&logoColor=151515)
-> ![TOML](https://img.shields.io/badge/toml-%23ffffff.svg?style=flat-square&logo=toml&logoColor=151515)
-> ![XML](https://img.shields.io/badge/xml-%23ffffff.svg?style=flat-square&logo=xml&logoColor=151515)
-> ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
+> ![CSS3 (Cascade Style Sheets 3)](https://img.shields.io/badge/CSS3%20%28Cascade%20Style%20Sheets%203%29-%23ffffff.svg?style=flat-square&logo=css3&logoColor=151515)
+> ![HTML5 (HyperText Markup Language 5)](https://img.shields.io/badge/HTML5%20%28HyperText%20Markup%20Language%205%29-%23ffffff.svg?style=flat-square&logo=html5&logoColor=151515)
+> ![JSON (JavaScript Object Notation)](https://img.shields.io/badge/json%20%28JavaScript%20Object%20Notation%29-%23ffffff.svg?style=flat-square&logo=json&logoColor=151515)
+> ![SQL (Structured Query Language)](https://img.shields.io/badge/SQL%20%28Structured%20Query%20Language%29-%23ffffff.svg?style=flat-square&logoColor=151515)
+> ![TOML (Tom's Obvious, Minimal Language)](https://img.shields.io/badge/toml%20%28Tom%27s+Obvious%2C+Minimal+Language%29-%23ffffff.svg?style=flat-square&logo=toml&logoColor=151515)
+> ![XML (eXtensible Markup Language)](https://img.shields.io/badge/xml%20%28eXtensible%20Markup%20Language%29-%23ffffff.svg?style=flat-square&logo=xml&logoColor=151515)
+> ![YAML (YAML Ain’t Markup Language)](https://img.shields.io/badge/yaml%20%28YAML+Ain%E2%80%99t+Markup+Language%29-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
@@ -346,6 +348,47 @@ Software Engineer | Cloud | Automation
 
 NBCUniversal is a global media and entertainment company operating news, television, streaming, and film businesses including NBC, Peacock, and Universal Pictures.
 
+- Developed AWS Lambda and Fargate serverless applications to enhance enterprise scalability and availability.
+
+- Rebuilt legacy systems using Kubernetes over nine months, reducing deployment time by 35% and boosting performance by 20%.
+
+- Led an API-focused modernization strategy leveraging microservices architecture.
+
+- Advised Sales & Finance teams on cloud tooling, deployment strategies, and scalability best practices.
+
+- Drove hiring processes by conducting technical interviews and screenings for junior through senior-level engineers.
+
+- Mentored and coached engineering teams, emphasizing robust design principles, quality, and system stability.
+
+- Led and mentored engineering teams, driving high levels of technical excellence and stability.
+- Formulated standards and practices to enhance Agile, DevOps, and cloud-native methodologies.
+- Spearheaded the development of a modernization strategy, focusingon API development and microservices architecture.
+- Contributed to the codebase, ensuring foundational elements were built for scalability and maintainability.
+- Set unit testing standards and enforced code quality across complex components.
+- Actively participated in code and architecture reviews, providing expert insights.
+- Served as a key advisor on cloud tools and strategies for Sales & Finance teams.
+- Conducted interviews and screenings for engineering candidates ranging from junior to senior levels.
+- Developed serverless applications using AWS Lambda and Fargate, improving scalability and availability for enterprise solutions.
+- Influenced multiple teams on best-practices for cloud tools, scaling, and strategic approaches.
+- Managed software requirements, design processes, and established rigorous testing protocols.
+
+
+- Built innovative, highly scalable products using latest technologies and approaches, including serverless applications for enterprise using AWS Lambda and Fargate, for higher scalability and availability.
+- Advisor and contributor for multiple teams relating to cloud tools, tradeoffs, scaling, and strategies.
+- Drafted software requirements, managed design, and established testing processes.
+- Interview and screening point person for engineering candidates.
+
+
+- Led and mentored engineering teams, driving high levels of technical excellence and stability.
+- Formulated standards and practices to enhance Agile, DevOps, and cloud-native methodologies.
+- Spearheaded the development of a Modernization strategy, focusing on API development and microservices architecture.
+- Contributed to the codebase, ensuring foundational elements were built for scalability and maintainability.
+- Set unit testing standards and enforced code quality across complex components.
+- Actively participated in code and architecture reviews, providing expert insights.
+- Served as a key advisor on cloud tools and strategies for Sales & Finance teams.
+- Conducted interviews and screenings for engineering candidates ranging from junior to senior levels.
+- Developed serverless applications using AWS Lambda and Fargate, improving scalability and availability for enterprise solutions..
+
 **Technologies Used:**
 
 - AWS Lambda: Serverless compute service; developed scalable backend components for modernization initiatives.
@@ -369,6 +412,32 @@ NBCUniversal is a global media and entertainment company operating news, televis
 </div>
 
 HBO Max is WarnerMedia’s flagship direct-to-consumer streaming platform delivering films, TV shows, and original programming.
+
+- Delivered and maintained full-stack applications, focusing on distributed systems, API design, and backend services.
+- Delivered high-scale applications with over 95% test coverage, significantly improving user experience.
+- Played a key role in engineering decisions, directly impacting the success of products used by millions of customers.
+- Utilized a range of technologies including JavaScript, HTML5, CSS, both relational and non-relational databases, DOM traversal, Node.js, and NPM.
+- Wrote clean, maintainable code, contributing to a collaborative and inclusive team environment.
+- Engaged in technical discussions, advocating for best practices and making informed decisions on technology and frameworks.
+- Collaborated with cross-functional teams to enhance user experience through strategic design and engineering solutions
+
+- Full-stack, distributed systems, API design, and backend services (both client and server technology stacks), to quickly deliver high-scale applications with 95%+ test coverage and improved user experience.
+- Making impactful engineering decisions and own critical areas of a product used by millions of customers.
+
+- Created and maintained full-stack applications with a focus on distributed systems, RESTful API design, and backend services.
+- Increased product reliability through 95% test coverage, improving user satisfaction for millions of HBO Max customers.
+- Influenced engineering roadmaps, ensuring scalability and performance across high-traffic platforms.
+- Employed JavaScript, HTML5, CSS, relational/non-relational databases, DOM traversal, Node.js, Jest, and NPM.
+- Participated in cross-functional technical discussions and architecture reviews to drive sound engineering decisions.
+- Collaborated with designers, PMs, and QA teams to deliver quality user experiences and iterative improvements.
+
+- Developedandmaintainedfull-stackapplications,focusingondistributedsystems,APIdesign,andbackendservices.
+- Deliveredhigh-scaleapplicationswithover95%testcoverage,significantlyimprovinguserexperience.
+- Playedakeyroleinengineeringdecisions,directlyimpactingthesuccessofproductsusedbymillionsofcustomers.
+- UtilizedarangeoftechnologiesincludingJavaScript,HTML5,CSS,bothrelationalandnon-relationaldatabases,DOMtraversal, Node.js, and NPM.
+- Wroteclean,maintainablecode,contributingtoacollaborativeandinclusiveteamenvironment.
+- Engagedintechnicaldiscussions,advocatingforbestpracticesandmakinginformeddecisionsontechnologyandframeworks.
+- Collaboratedwithcross-functionalteamstoenhanceuserexperiencethroughstrategicdesignandengineeringsolutions.
 
 **Technologies Used:**
 
@@ -397,17 +466,79 @@ HBO Max is WarnerMedia’s flagship direct-to-consumer streaming platform delive
 
 Amazon.com is a multinational technology company focusing on e-commerce, cloud computing (AWS), digital streaming, and AI.
 
+- Delivered and maintained full-stack applications, focusing on distributed systems, API design, and backend services.
+- Delivered high-scale applications with over 95% test coverage, significantly improving user experience.
+- Played a key role in engineering decisions, directly impacting the success of products used by millions of customers.
+- Utilized a range of technologies including JavaScript, HTML5, CSS, both relational and non-relational databases, DOM traversal, Node.js, and NPM.
+- Wrote clean, maintainable code, contributing to a collaborative and inclusive team environment.
+- Engaged in technical discussions, advocating for best practices and making informed decisions on technology and frameworks.
+- Collaborated with cross-functional teams to enhance user experience through strategic design and engineering solutions..
+
+- Involved in designing and implementing scalable services and components for consumer products, with a focus on API development using Node.js and GraphQL. Contributed to system design and problem-solving within complex, large-scale environments.
+- Achievements:
+- Increased remote training class capacities by 400% to support 2,000 students per class during lockdown for the AWS Training and Certification Organization.
+- Delivered an AWS cloud-based RESTful async, secure, end-to-end reporting solution for the Amazon Advertising Organization, which successfully processed over one-billion custom report requests within the first 7 months, net cutting hardware costs by ~$6k/month.
+- Reduced the risk from use of a shared fleet for internal code builds on a team "docker-izing" Amazon-wide test execution engine which used disposable container runners in the AWS Builder Tools Organization.
+- Designer of the solution for pushing code artifacts into AWS GovCloud regions, previous manual approval in a SCIF by an engineer with security clearance required. Approach of a caching permission system to automatically approve previously cleared identical code artifacts when transporting them into AWS GovCloud regions. Reduced deployment cycle time from weeks to minutes with negligible tradeoff in security and significant reduction of work for the engineers with security clearance.
+- Reduced test writing and refactoring time by 32% through the creation of Swift and Ruby based test frameworks on top of Apple’s XCUI/XCTest for the Kindle Organization. Leveraged from 2016-2020.
+
+
+- Initial reduction in department hardware costs by $6k per month by architecting public API processing through AWS and migrating to new implementation. Estimated $40k by end of year of operation and scaling.
+- Designed cached permission system for auto approving previously cleared code artifacts transporting into AWS GovCloud regions.  The outcome saved 6⅔ hours/day of time per Top Secret/Secret security cleared engineer.
+- Reduced risk of executing test automation companywide by applying Dockerization with a build infrastructure on shared fleets and reduced hardware.
+- Architected and delivered secure, AWS based, end-to-end solutions for RESTful async customer report generation.  Processed over “1 Billion” requests successfully during first seven months.
+- Lead engineer for standing up the Amazon-wide internal Test Execution Engine in two new AWS GovCloud regions.
+- Integrated GoToWebinar with the public facing AWS Training Website, increasing virtual training classes capacities from 500 to 2,000 students per session during COVID.
+- Decreased test refactoring time 32% by designing and implementing scalable Swift and Ruby based test frameworks on top of XCUI/XCTest and Calabash.
+- Mentored peers, software managers, product managers, and technical program manager on software development, agile concepts, testing concepts, test driven development, and pair programming.
+- Technically Program Managed across all public services in AWS must have canary tests created, executed, and reported daily minimum.
+
 #### Amazon Kindle Reader Organization
 The Amazon Kindle Reader organization is responsible for developing and enhancing Kindle devices and applications. This team focuses on delivering a seamless reading experience through hardware innovation and software development, supporting a vast library of digital content.
 
-#### Amazon Advertising Organization
-Amazon Advertising offers a suite of advertising solutions that enable businesses to reach customers across Amazon's platforms and beyond. This organization develops tools and strategies for sponsored ads, display advertising, and video campaigns, leveraging Amazon's extensive consumer data to optimize ad performance.
+- Created Swift and Ruby testing frameworks layered on Apple’s XCUI/XCTest, reducing test writing and refactoring by 32%.
+- Established the primary iOS testing framework used by the Kindle Organization from 2016 through 2020.
+- Combined Objective-C, Swift, Ruby, Bash, AWS services, and database solutions for scalable code delivery.
+- Emphasized clean code standards within a collaborative, inclusive development environment.
+- Led design reviews, championed best practices, and guided critical technology choices.
+- Coordinated with cross-functional teams to deliver engaging and performant user experiences.
+- Reduced test writing and refactoring time by 32% through the creation of Swift and Ruby based test frameworks on top of Apple’s XCUI/XCTest for the Kindle Organization. Leveraged from 2016-2020.
+- Designed frameworks which became de facto primary Kindle iOS testing framework for 5 years.
 
 #### AWS Builder Tools Organization
 The AWS Builder Tools organization, part of the Amazon Software Builder Experience (ASBX), provides tools and services that support the software development lifecycle. This includes solutions for source control, continuous integration and delivery, and infrastructure management, facilitating efficient and scalable software development within Amazon and for AWS customers.
 
+- Implemented Docker containerized build pipelines, reducing risks associated with shared fleets for code builds across all of Amazon.
+- Devised automated approvals for GovCloud code artifact transfers, cutting deployment from weeks to minutes with minimal security trade-offs.
+- Led an initiative to launch internal test execution engines in two new AWS regions, ensuring high availability.
+- Oversaw daily canary test execution and reporting across AWS public services, maintaining uptime and performance.
+- Shaped engineering strategies for products reaching millions of global customers.
+- Reduced the risk from use of a shared fleet for internal code builds on a team "docker-izing" Amazon-wide test execution engine which used disposable container runners in the AWS Builder Tools Organization.
+- Designer of the solution for pushing code artifacts into AWS GovCloud regions, previous manual approval in a SCIF by an engineer with security clearance required. Approach of a caching permission system to automatically approve previously cleared identical code artifacts when transporting them into AWS GovCloud regions. Reduced deployment cycle time from weeks to minutes with negligible tradeoff in security and significant reduction of work for the engineers with security clearance.
+- Lead engineer in launching internal test execution engine in two new AWS regions.
+- Managed technical programs across all AWS public services, ensuring daily canary test execution and reporting.
+
+#### Amazon Advertising Organization
+Amazon Advertising offers a suite of advertising solutions that enable businesses to reach customers across Amazon's platforms and beyond. This organization develops tools and strategies for sponsored ads, display advertising, and video campaigns, leveraging Amazon's extensive consumer data to optimize ad performance.
+
+- Engineered an AWS-based RESTful, asynchronous reporting solution processing over one billion custom requests within seven months.
+- Reduced operational costs by $6K/month via efficient public API processing on AWS.
+- Developed Ruby gRPC prototypes to lower connection overhead, enhancing system throughput and reliability.
+- Delivered an AWS cloud-based RESTful async, secure, end-to-end reporting solution for the Amazon Advertising Organization, which successfully processed over one-billion custom report requests within the first 7 months, net cutting hardware costs by ~$6k/month.
+- Prototyped Ruby gRPC based systems to reduce connection overhead.
+- Cut hardware costs by $6k/month through efficient public API processing via AWS.
+
 #### AWS Training and Certification Organization
 AWS Training and Certification offers educational resources and certification programs to help individuals and organizations build cloud skills. This organization provides a range of learning options, including digital courses, instructor-led training, and certification exams, aiming to validate expertise in AWS technologies and promote professional development.
+
+- Scaled virtual training class capacity from 500 to 2,000 students per session, achieving a 400% increase.
+- Mentored engineering teams and leadership in Agile practices, TDD, and software development best practices.
+- Developed and maintained distributed full-stack solutions focusing on RESTful APIs and robust backend services.
+- Delivered code with over 95% test coverage, significantly raising product reliability and user experience.
+- Drove key architectural decisions impacting AWS Training & Certification products used by millions.
+- Utilized JavaScript, HTML5, CSS, BASH, various databases, and C# for solutions.
+- Increased virtual training class capacity from 500 to 2,000 students per session. (400% increase)
+- Mentored peers and managers in software development, agile concepts, and test-driven development. o Integrated GoToWebinar with AWS Training website to support larger virtual classes during COVID.
 
 **Technologies Used:**
 
@@ -436,11 +567,53 @@ AWS Training and Certification offers educational resources and certification pr
 
 PayPal is a global online payment system supporting secure financial transactions between individuals and businesses.
 
+- Developed support tools that increased team productivity by roughly 300%.
+- Achieved top merchant integration rates globally for multiple months.
+- Provided technical expertise on PayPal’s payment APIs and product ecosystem to merchants and developers.
+- Ensured high-quality integrations of PayPal’s payment solutions through comprehensive testing and troubleshooting.
+- Authored detailed resources (sample code, FAQs, white papers) to streamline merchant onboarding.
+- Collaborated with Sales to address complex product questions, offering technical business solutions.
+- Increased team productivity ~300% by automating common tasks and integrating multiple distributed systems into a single user system with workflows and friendly interface.
+- Increased organization test automation stability 27.3% by designing an internal shared framework.
+- Negotiated increase of test coverage 67.1% by being a code reviewer for five delivery teams.
+- Developed work tools to reduced working time and increased team productivity by ~300%, resulting in personally achieving the highest number of merchant integrations of all engineers in PayPal over multiple months in the Professional Services division.
+- Increased test automation stability by 27.3% by designing an internal shared framework increase of multiple teams' test coverage by 67.1% of a shared product through code reviewing five delivery teams while mentoring others to code review for scaling quality in the Global Operations division.
+
+
 #### PayPal Global Operations
 PayPal's Global Operations organization manages worldwide customer support and service delivery, with teams across North America, Latin America, Europe, and Asia Pacific. This division ensures operational excellence and customer satisfaction across PayPal's global user base.
 
+- Increased test automation stability by 27.3% by designing an internal shared framework and advocating practices.
+- Driver of multiple teams' achieving test coverage by 67.1% of a shared product through code reviewing services for five delivery teams while mentoring others to code review for scaling quality.
+- Developed support tools that significantly reduced working time and increased team productivity by ~300%.
+- Had the highest amount of merchant integrations than any other engineer in the company for multiple months while highlighting the tools for others. 
+- Provided technical guidance to merchants and developers on PayPal’s payment solutions, APIs, and products.
+- Ensured high-quality implementation of PayPal’s payment processing solutions with optimal integration strategies.
+- Troubleshot and tested technical issues with PayPal’s software, hardware, and endpoints, and communicated solutions.
+- Produced in-depth technical resources (sample code, white papers, FAQs) for PayPal merchants.
+- Offered technical business solutions to merchants and developers; addressed product questions with Sales departments.
+- Delivered presentations, led meetings, and acted as a point of contact for projects.
+- Participated in the development of tools and processes to improve product supportability and support productivity.
+- Advised management on support issues impacting customer satisfaction and recommended appropriate actions.
+- Provided after-hours on-call coverage for escalations and critical issues.
+- Demonstrated competencies in Customer Focus, Listening, Problem Solving, Technical Skills, Composure, and Drive for Results..
+
 #### PayPal Professional Services
 PayPal's Professional Services team provides tailored payment solutions and integration support to businesses. They assist clients in implementing PayPal's services effectively, ensuring seamless payment processing and compliance with industry standards.
+
+- Developed support tools that significantly reduced working time and increased team productivity by ~300%. Had the highest amount of merchant integrations than any other engineer in the company for multiple months while highlighting the tools for others.
+- Provided technical guidance t- merchants and developers on PayPal’s payment solutions, APIs, and products.
+- Ensured high-quality implementation of PayPal’s payment processing solutions with optimal integration strategies.
+- Troubleshot and tested technical issues with PayPal's software, hardware, and endpoints, and communicated solutions.
+- Produced in-depth technical resources (sample code, white papers, FAQs) for PayPal merchants.
+- Offered technical business solutions t- merchants and developers; addressed product questions with Sales
+departments.
+- Delivered presentations, led meetings, and acted as a point of contact for projects.
+- Participated in the development of tools and processes to improve product supportability and support productivity. 
+- Advised management on support issues impacting customer satisfaction and recommended appropriate actions.
+- Provided after-hours on-call coverage for escalations and critical issues.
+- Demonstrated competencies in Customer Focus, Listening, Problem Solving, Technical Skills, Composure, and Drive for Results.
+- Direct interaction with merchants, partners and developers with annual revenues up to $100+ million. PayPal lead on notable integrations for Kitchen Aid, Whirlpool, Gilly Hicks/Abercrombie &amp; Fitch, nVidia, SkullCandy, Fox Racing, Cystic Fibrosis Foundation, StubHub, Wyndham Resorts, Huffy Bicycles, SugarSync, Spencers Gifts, Sonos, Folica, eVanity and Smith Noble Window Wear.
 
 **Technologies Used:**
 
@@ -458,10 +631,20 @@ PayPal's Professional Services team provides tailored payment solutions and inte
 </div>
 <div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <h3 style="margin: 0;">Google — Operations Technician (Temp)</h3>
-    <p style="margin: 4px 0;"><i>Council Bluffs, Iowa — August 2010 to August 2010</i></p>
+    <p style="margin: 4px 0;"><i>Council Bluffs, Iowa — August 2010</i></p>
 </div>
 
 Google is a global technology company specializing in search, advertising, cloud computing, and hardware.
+
+- Contributed to the development and maintenance of Google's powerful search technology infrastructure.
+- Supported the core infrastructure powering Google’s search by installing and configuring Linux server clusters.
+- Tested and troubleshot new server hardware, ensuring stable and scalable growth.
+- Repaired servers and resolved Linux OS-level issues, maintaining optimal system uptime.
+- Played an important role in building and sustaining Google's Linux server cluster.
+- Responsible for the installation of new servers, supporting the expansion of the Linux cluster.
+- Involved in testing and troubleshooting new server hardware components.
+- Skilled in repairing and fixing broken servers.
+- Expertise in configuring and resolving Linux OS-related issues.
 
 **Technologies Used:**
 
@@ -469,9 +652,129 @@ Google is a global technology company specializing in search, advertising, cloud
 - Hardware Troubleshooting: Installed, tested, and repaired server hardware.
 - Data Center Operations: Supported Google's search infrastructure expansion.
 
-<hr style="border: 0; border-top: 1px solid #eee;" />
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-<p align="right"><a href="#readme-top">↖ Back to top</a></p>
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/creighton/creightonuniversity_logo.jpg?raw=true" style="max-height: 55px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">Creighton University — Programmer Analyst</h3>
+    <p style="margin: 4px 0;"><i>Omaha, Nebraska — March 2010 to October 2010</i></p>
+</div>
+
+- Reviewed specifications to identify required elements and troubleshoot application problems.
+- Designed, coded, tested, and implemented programs and reports using PL/SQL, Oracle, Shell scripts, and MS Office tools.
+- Developed expert knowledge of mission-critical systems and maintained up-to-date technical proficiency.
+- Supported application development for internal departments and individual users.
+- Created reports for university departments using PowerBuilder, Oracle, and Sungard Advance.
+- Served as a committee member for Blue Suite, focusing on data policies, bugfixes, and maintenance.
+- Designed Oracle views and stored procedures with pipelined functions for enhanced reusability.
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+
+[//]: # (    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/amazon/amazon.jpg?raw=true" style="max-height: 55px;" />)
+
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">Midwest Introductions — Software Engineer</h3>
+    <p style="margin: 4px 0;"><i>Omaha, Nebraska — October 2002 to March 2008</i></p>
+</div>
+
+- Developed Java applications to migrate data from Access 97 and Excel to MySQL using JDBC.
+- Led web development for Membership Services' user interfaces, utilizing Mootools, PHP, and MySQL.
+- Re-engineered and maintained legacy database systems.
+- Configured various services including SSH, NX/VNC access, DAAP media sharing, OpenVPN, Samba, and Apache.
+- Executed PC and LAN hardware installations, configurations, and upgrades.
+- Provided comprehensive technical support.
+- Created a dynamic photo indexing and manipulation tool for web-based applications.
+- Developed an AJAX-enabled web-based data entry system.
+- Established VPN bridges to enhance connectivity between office LANs.
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/west/west_corporation_logo.jpg?raw=true" style="max-height: 55px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">West Corporation — Coach/Supervisor & Network Controller</h3>
+    <p style="margin: 4px 0;"><i>Omaha, Nebraska — June 1999 to October 2002</i></p>
+</div>
+
+- Production:
+  - Recognized as Employee of the Month in June 2000 for outstanding performance as Team Coach.
+  - Innovated an automation solution for the nightly statistic correction process, reducing a 7-hour, two-person task to just 10 minutes as a Network Controller. 
+  - Developed an attrition and attendance tracking system in the Supervisor role. 
+  - Streamlined break/lunch scheduling by integrating Meridian phone systems with Informix-based scheduling, enhancing operational efficiency as a supervisor.
+  - Performed employee coaching, disciplinary advising, and termination.
+- Network Control:
+  - Managed AT&T GeoTel system, Meridian Max, and SQL-based databases using ODBC technologies.
+  - Optimized staffing and call routing daily for around 21,200 agents, aligning with call volume trends and scheduling plans.
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+
+[//]: # (    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/amazon/amazon.jpg?raw=true" style="max-height: 55px;" />)
+
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">AIM Institute & Omaha Public Schools — Kids Summer HTML Webpage Instructor</h3>
+    <p style="margin: 4px 0;"><i>Omaha, Nebraska — May 1999 to July 1999</i></p>
+</div>
+
+- Taught middle school students webpage development basics.
+- Conducted hands-on instruction in classroom settings.
+- Demonstrated multimedia formats on both PC and Macintosh computers.
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+
+[//]: # (    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/amazon/amazon.jpg?raw=true" style="max-height: 55px;" />)
+
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">LiminalCognition LLC — Principal Engineer</h3>
+    <p style="margin: 4px 0;"><i>Seattle, Washington — 2021 to Present</i></p>
+</div>
+
+- Founded and operated a content development and educational consultancy focused on programming tutorials, Agile concepts, emerging webservice technologies, and cloud-based
+innovation, targeting underexplored market opportunities.
+- Designed and developed training content for Agile (Scrum) practices, including ideation for a video-based series on YouTube, combining technical expertise with effective
+storytelling.
+- Conducted community engagement and market research to identify opportunities for unique value propositions in education for programming languages and Agile frameworks.
+- Researched and created initial drafts of advanced materials for programming tutorials covering Java, Ruby, Python, and Bash, with an emphasis on practical tips, language nuances,
+and scripting innovations.
+- Regularly reviewed incremental updates and technical advancements in programming languages to ensure the relevance of all content.
+- Developed early prototype videos and supplementary materials for a YouTube content series, applying expertise in technical communication and visual storytelling.
+- Implemented rigorous research and ideation processes to differentiate content, with plans to release after the expiration of intellectual property considerations from a previous
+employer
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+Farrell’s Extreme Bodyshaping
+Level II Resistance Training and Cardio Kickboxing Instructor
+Omaha, NE, United States
+July 2008 – Dec 2014
+
+- Led group fitness classes focused on resistance training, cardio kickboxing, and physical conditioning, fostering a supportive and motivating environment.
+- Designed and adapted workout programs to suit diverse skill levels and fitness goals, ensuring participant safety and engagement.
+- Mentored new instructors and coached participants on proper technique and injury prevention, enhancing overall program effectiveness..
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+Omaha Taekwondo & Judo Center
+Assistant Kids Judo and Self Defense Instructor
+Omaha, NE, United States
+Jan 1999 – Dec 2000
+
+- Assisted in teaching self-defense techniques and Judo fundamentals to children, emphasizing discipline, focus, and physical fitness.
+- Supported lead instructors in conducting structured classes, ensuring participants received individualized attention and guidance.
+- Developed age-appropriate exercises and drills to improve students’ agility, coordination, and confidence.
+- Promoted a positive learning environment, instilling values of respect, teamwork, and perseverance.
+- Played an active role in organizing and supervising events, including demonstrations and skill evaluations.
 
 ---
 
@@ -492,8 +795,6 @@ Google is a global technology company specializing in search, advertising, cloud
 - Focus: Internet Technologies
 - Minor: Mathematics
 
-Activities and societies: Student Government Election Commissioner, Student Government Senior Class Senator, Be-A-Mav website personality, Student Faculty Liaison, Judicial & EEO Review Board, Learning & Education Resource CommitteeActivities and societies: Student Government Election Commissioner, Student Government Senior Class Senator, Be-A-Mav website personality, Student Faculty Liaison, Judicial & EEO Review Board, Learning & Education Resource Committee
-
 𝐃𝐞𝐭𝐚𝐢𝐥𝐬: Computer Science w/ minor in Mathematics
 
 University of Nebraska Omaha is a public metropolitan research university offering strong technical and engineering programs with a focus on applied sciences and information technology.
@@ -501,17 +802,28 @@ University of Nebraska Omaha is a public metropolitan research university offeri
 **Institution's description:** The University of Nebraska–Omaha was the first Nebraska university to receive computer science accreditation from the Computing Accreditation Commission of ABET. The Department offers a number of interdisciplinary courses that are cross-taught by instructors from other related fields.
 
 **Relevant Coursework and Skills:**
-- Data Structures: Study of linked lists, trees, graphs, and algorithmic efficiency — foundational for building performant backend services and cloud systems.
-- Advanced Java Programming: Advanced object-oriented programming techniques in Java — applied later to building robust server-side solutions at Amazon and PayPal.
-- Operating Systems: Concepts including process management, memory handling, and system calls — critical to supporting Linux-based deployments at Google and AWS.
-- Networking Essentials: Basics of IP networking, protocols, and distributed systems — applied to service-to-service communications and cloud deployments.
-- Software Engineering: Principles of SDLC (Software Development Life Cycle), Agile processes, and project management — practiced daily at NBCUniversal and AWS.
-- Computer Architecture: Study of low-level system design, CPU instruction cycles, and hardware interfaces — foundational knowledge used during server maintenance at Google.
-- Discrete Mathematics: Logic, set theory, graph theory — underpinning complex data structures and system optimizations used in real-world engineering.
-- Probability & Statistics: Foundations for interpreting system telemetry, metrics, and service reliability modeling at HBO Max and AWS.
-- Applied Combinatorics: Practical counting principles and optimizations — useful for designing efficient APIs and resource allocation systems.
-- Principles of Programming Languages: Language paradigms and compiler design concepts — enhanced ability to work across multiple languages (Ruby, JavaScript, Python).
-- Organizations, Applications, and Technologies: Study of IT enterprise environments — directly relevant to work in multi-organization cloud environments (AWS, NBCUniversal).
+
+- Advanced Java Programming, CSCI3830: Advanced object-oriented programming techniques in Java — building robust server-side solutions.
+- Applied Combinatorics, MATH3100: Practical counting principles and optimizations — useful for designing efficient APIs and resource allocation systems.
+- Computer Architecture, CSCI4350: Study of low-level system design, CPU instruction cycles, and hardware interfaces — foundational knowledge used during server maintenance
+- Data Structures, CSCI3320:`
+- Discrete Mathematics, MATH2030: Logic, set theory, linked lists, trees, graph theory, and algorithmic efficiency — underpinning complex data structures and system optimizations used in real-world engineering. Foundational for building performant backend services and cloud systems
+- Java Programming, CSCI2830:
+- Operating Systems, CSCI4500: Concepts including process management, memory handling, and system calls — critical to supporting Linux-based deployments.
+- Organizations, Applications, & Technologies, CIST2110: Study of IT enterprise environments — directly relevant to work in multi-organization cloud environments
+- Principles of Programming Languages, CSCI4220: Language paradigms and compiler design concepts — enhanced ability to work across multiple languages (Ruby, JavaScript, Python).
+- Probability & Statistics, MATH4740: Foundations for interpreting system telemetry, metrics, and service reliability modeling.
+- Software Engineering, CSCI4830: Principles of SDLC (Software Development Life Cycle), Agile processes, and project management
+
+
+**Activities and Societies:**
+
+- Be-A-Mav website personality,
+- Judicial & EEO Review Board,
+- Learning & Education Resource Committee
+- Student Faculty Liaison
+- Student Government Election Commissioner
+- Student Government Senior Class Senator
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
@@ -525,10 +837,12 @@ University of Nebraska Omaha is a public metropolitan research university offeri
 </div>
 
 
-**Institution's description:** The University of Nebraska–Lincoln School of Computing offers Nebraska’s only comprehensive program of higher education, research, and service outreach in computer science, computer engineering, and software engineering.
+**Institution's description:**
+
+The University of Nebraska–Lincoln School of Computing offers Nebraska’s only comprehensive program of higher education, research, and service outreach in computer science, computer engineering, and software engineering.
 
 The School of Computing offers a challenging baccalaureate degree program in computer science that prepares graduates for professional practice as computer scientists, provides the basis for advanced studies in the field, and establishes a foundation for lifelong learning and achievement. The bachelor of science degree in computer science is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org.
-University of Nebraska Inter-campus Student Institution's description: The University of Nebraska–Lincoln School of Computing offers Nebraska’s only comprehensive program of higher education, research, and service outreach in computer science, computer engineering, and software engineering. The School of Computing offers a challenging baccalaureate degree program in computer science that prepares graduates for professional practice as computer scientists, provides the basis for advanced studies in the field, and establishes a foundation for lifelong learning and achievement. The bachelor of science degree in computer science is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org.
+
 
 **Relevant Coursework and Skills:**
 · HTML
@@ -538,23 +852,188 @@ University of Nebraska Inter-campus Student Institution's description: The Unive
 
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/metro_omaha/metro.jpg?raw=true" style="max-height: 70px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">Metropolitan Community College, Omaha, NE</h3>
+    <p style="margin: 4px 0;">Undergrad Coursework</p>
+</div>
+
+**Relevant Coursework and Skills:**
+
+- Calculus I, II, III 
+- Networking Essentials, MCT241: Basics of IP networking, protocols, and distributed systems — applied to service-to-service communications and cloud deployments.
+- Survey Computer Programming, CPT105
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
 <div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/bellevue_university/bellevue_university_logo.jpg?raw=true" style="max-height: 70px;" />
 </div>
 <div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <h3 style="margin: 0;">Bellevue University</h3>
-    <p style="margin: 4px 0;">MBA Coursework (50% Complete)</p>
-    <p style="margin: 4px 0;"><i>Bellevue, NE — <i>degree incomplete* 2014–2015</i></p>
+    <p style="margin: 4px 0;">Master of Business Administration (MBA) Coursework (50% Complete)</p>
+    <p style="margin: 4px 0;"><i>Bellevue, Nebraska — <b>degree incomplete 2014–2015</b></i></p>
 </div>
 
 Bellevue University is a private nonprofit university focused on adult education and applied learning for business, leadership, and technology fields.
 
 **Relevant Coursework and Skills:**
-- Human Capital: Self-Development: Developed management and leadership skills — applied to mentoring junior engineers at AWS and NBCUniversal.
-- Critical Thinking & Applied Reasoning: Analytical problem-solving frameworks — directly relevant to architectural decision making in cloud solutions.
-- Survey of Accounting: Understanding financial systems and resource allocation — useful context for building financial systems integrations at PayPal.
-- Application of Data Analysis: Data interpretation and modeling — aligned with work on analytics services and system monitoring.
-- Capitalism & Economic Reasoning: Economic system fundamentals — indirectly relevant to business acumen when working on financial-related technical projects (PayPal integrations, Amazon Advertising).
+
+- Human Capital: Self-Development: Developed management and leadership skills — applied to mentoring junior engineers.
+- Critical Thinking & Applied Reasoning, MBA606: Analytical problem-solving frameworks — directly relevant to architectural decision making in cloud solutions.
+- Survey of Accounting, MBA600: Understanding financial systems and resource allocation — useful context for building financial systems integrations.
+- Application of Data Analysis, MBA610: Data interpretation and modeling — aligned with work on analytics services and system monitoring.
+- Capitalism & Economic Reasoning, MBA608: Economic system fundamentals — indirectly relevant to business acumen when working on financial-related technical projects.
+
+
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+### ![🎓 Other Trainings](https://img.shields.io/badge/🎓-Other%20Trainings-%23ffffff?style=for-the-badge&labelColor=%23eee)
+
+- Certified Agile Leadership (CAL), by [Anu Smalley](https://www.linkedin.com/in/anusmalley/), [Brain Trust Consulting Group](https://www.braintrustgroup.com)
+- Certified Scrum Master (CSM), by [Mike Cohn](https://www.linkedin.com/in/mikewcohn/), [Mountain Goat Software](https://www.mountaingoatsoftware.com)
+- Certified Scrum Product Owner (CSPO), by [Julie Chickering](https://www.linkedin.com/in/juliechickering/), [Brain Trust Consulting Group](https://www.braintrustgroup.com)
+- Advanced Certified Scrum Master (A-CSM), by [Anu Smalley](https://www.linkedin.com/in/anusmalley/), [Brain Trust Consulting Group](https://www.braintrustgroup.com)
+- Advanced Certified Scrum Product Owner (A-CSPO), by [Brett Palmer](https://www.linkedin.com/in/agilebrett/), [Brain Trust Consulting Group](https://www.braintrustgroup.com)
+- Certified Scrum Professional® - Scrum Master (CSP-SM), by [Arlen Bankston](https://www.linkedin.com/in/arlenbankston/), [Lithespeed](https://lithespeed.com)
+- Certified Scrum Professional® - Product Owner (CSP-PO), by [Anu Smalley](https://www.linkedin.com/in/anusmalley/), [Brain Trust Consulting Group](https://www.braintrustgroup.com)
+- PMI-PMP Project Management Professional, by [PMTI](https://www.4pmti.com)
+- Program with PL/SQL (OracleDatabase10g), by [Oracle University](https://www.oracle.com/education/)
+- Accelerated iOS with Objective-C, by [Big Nerd Ranch](https://www.google.com/search?client=safari&rls=en&q=Big+Nerd+Ranch&ie=UTF-8&oe=UTF-8)
+
+#### ![AWS Certification Trainings](https://img.shields.io/badge/_-AWS%20Certification%20Trainings-%23ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=black&label=&labelColor=%23eee)
+- Architecting on AWS
+- Developing on AWS
+- Systems Operations on AWS
+
+#### ![Amazon Trainings](https://img.shields.io/badge/_-Amazon%20Trainings-%23ffffff?style=for-the-badge&logo=amazon&logoColor=black&labelColor=%23eee)
+- 2016 Intern Manager and Mentor Training
+- 2018 Intern Manager Training
+- Ad Products Privacy Terms and Concepts
+- Agile and Scrum 101
+- Amazon A to Z
+- Amazon's Peculiar Ways
+- Amazon Corporate Emergency Response Training
+- Amazon Employee Emergency Response Awareness Training
+- Amazon Emergency Response - Safety Czar Training
+- Amazon Prototype Testing Participation and Confidentiality Notice
+- Amazon Security Awareness (ASA), 2015
+- Amazon Security Awareness (ASA), 2016
+- Amazon Security Awareness (ASA), 2017
+- Amazon Security Awareness (ASA), 2017 (AWS)
+- Authentication, Authorization, and Auditing
+- AWS Security Awareness (ASA), 2018
+- AWS Security Compliance Policy 2018
+- Customer Connection (C2)
+- EE Facilitation 101
+- EE Mobile 301: iOS Bootcamp
+- EE Oncall 101
+- EE SDE 101
+- EE SDE Bootcamp
+- Exploring People Management (EPM), by [Kvon Tucker](https://www.linkedin.com/in/kvontucker/)
+- Export Controls 101 for GovCloud Access
+- Influencing without Authority at Amazon: 1 - The Basics
+- InfoSec Policies and Standards
+- Internationalization Essentials for Software Development
+- Introduction to SDE Levels
+- Kanban Workshop
+- Leadership Principles eLearning - Parts 1 & 2
+- Making Great Hiring Decisions (MGHD)
+- Open Source Policy Training
+- PM 101: Project Management Fundamentals
+- Press Releases, External Communications, and Regulation FD
+- Product Ownership Workshop
+- QAE Functional Interviewing
+- Safety Ambassador 101
+- Safety Ambassador Awareness
+- Scrum Workshop (Shadowing to become an instructor)
+- SDE Functional Interviewing
+- Student Programs SDE1 Online Assessment Verifier Training
+- Test Bootcamp: Behavior Driven Testing
+- Test Bootcamp: Introduction to Mobile Testing
+- Test Bootcamp: Testing 101
+- Test Bootcamp: Test Planning for Engineers
+- Test Bootcamp: Writing Testable Code (Testability)
+- Testing in Native AWS w/ Hydra
+- Working Backwards: Foundational Training
+- Writing at Amazon
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+<p align="right"><a href="#readme-top">↖ Back to top</a></p>
+
+---
+
+## ![📜 Certifications](https://img.shields.io/badge/📜-Certifications-%23ffffff?style=for-the-badge&labelColor=transparent)
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+- AI Foundations, University of Nebraska System
+- Certified Scrum Master (CSM), Scrum Alliance
+- Advanced Certified Scrum Master (A-CSM), Scrum Alliance
+- Certified Scrum Professional Scrum Master (CSP-SM), Scrum Alliance
+- Certified Product Owner (CPO), Scrum Alliance
+- Advanced Certified Product Owner (A-CPO), Scrum Alliance
+- Certified Agile Leadership (CAL), Scrum Alliance
+- Professional Scrum Master 1 (PSM-I), Scrum.org
+- Professional Scrum Master 2 (PSM-II), Scrum.org
+- Certified Scrum Professional Product Owner (CSP-PO), Scrum Alliance
+- Professional Scrum Product Owner 1 (PSPO-I), Scrum.org
+- Professional Scrum Developer (PSD), Scrum.org
+- Professional Scrum with Kanban (PSK), Scrum.org
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+<p align="right"><a href="#readme-top">↖ Back to top</a></p>
+
+---
+
+## ![🏅 Honors](https://img.shields.io/badge/🏅-Honors-%23ffffff?style=for-the-badge&labelColor=transparent)
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+- 1st Place (Global Operations) Be the Customer Campaign, PayPal • 2014
+- 2nd Place Hack-a-thon, Summer Do-It-In-24, PayPal • 2011
+- Hack-a-thon Finalist, PayPal • 2011
+- Blue Moon Award for Team Development, PayPal • 2011
+- Merchant Leadership Award Finalist, PayPal • 2011
+- Who's Who Among Students in American Universities & Colleges (Leadership), Issued by University of Nebraska • 2007
+- Commendation for Service to the University, Issued by University of Nebraska Student Government
+- Assistant Instructor of the Year, Issued by International Combat Arts Federation • 1998
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+<p align="right"><a href="#readme-top">↖ Back to top</a></p>
+
+---
+
+## ![👥 Involvement](https://img.shields.io/badge/👥-Involvement-%23ffffff?style=for-the-badge&labelColor=transparent)
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+- Hack-a-thon Nebraska Site Lead, PayPal • 2013 - 2014: Site lead for worldwide PayPal Hack-a-thon. Procured and supplied venues, food, manager support, and communications/details.
+- Intern Mentor (resulting in returning offers):
+  - Amazon • Summer 2016
+  - AWS • Summer 2018
+- Role-Transition Mentor, Amazon • 2019 - 2021
+- Coordinator:
+  - Test UnConference (Amazon & Subsidiaries) • 2019
+    - Coordinator of the Amazon (including subsidiaries) 2019 worldwide “unconference” for thousands of employees.
+    - Guided and supervised ~30 volunteers, recruitment, venues, food, equipment, 3rd party support, swag, advertising, and execution.
+- Speaker:
+  - Kindle's KCTO Conference • 2017
+  - Test UnConference (Amazon & Subsidiaries) • 2017
+- Screener, Presentation & Talk:
+  - AgileCon Conference (Amazon & Subsidiaries) • 2021
+  - DevCon Conference (Amazon & Subsidiaries) • 2021
+  - Test UnConference (Amazon & Subsidiaries) • 2020 & 2021
+- Quality Samurai, Amazon • January 2017 – October 2021: An exclusive Amazon wide (including subsidiaries) group that drives quality culture by supplying mentorship, training, consults, technical reading, video resources, bootcamps, unConferences, career progression, presentation dry-run reviewers, and speaking opportunities.
+- Corporate Safety Ambassador, Amazon • 2016 - 2021
+- Corporate Scrum Coach, Amazon & AWS (Amazon & Subsidiaries) • 2016 - 2021
+- Corporate Scrum Instructor, Amazon & AWS (Amazon & Subsidiaries) • 2016 - 2021: Instructor of workshops and bootcamps teaching scrum in Amazon & AWS.  Crafted materials and support for entry level engineers, tech writers, HR personnel, managers, directors, VPs.
 
 <hr style="border: 0; border-top: 1px solid #eee;" />
 
