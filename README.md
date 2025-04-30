@@ -42,7 +42,9 @@ Software Engineer | Cloud | Automation
 
 ---
 
-## 💫 About Me
+## ![💫️ About Me](https://img.shields.io/badge/⚙️%20About%20Me-%23ffffff?style=flat-square)
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 Bringing simplicity, vibrancy, and robustness to life and code! Driven by my passion for engineering, software development, technical leadership, mentoring, and continuous learning.<br><br>
 With my diverse set of skills, including architecting, development, mentoring, and instructing, my curiosity guides me to explore, discover, and solve complex problems.  <br>  <br>
@@ -61,33 +63,32 @@ With my diverse set of skills, including architecting, development, mentoring, a
 
 ---
 
-<h2><a href="https://github.com/RampantLions" target="_blank"><img src="https://img.shields.io/badge/📊%20github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="📊Github" style="margin-bottom: 5px;" /></a></h2>
+## ![GitHub](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black)
 
-<table><tr><td valign="top" width="50%">
+### ![📊️ Stats](https://img.shields.io/badge/📊️%20Stats-%23ffffff?style=flat-square)
 
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
 <img src="https://github-readme-stats.vercel.app/api?username=RampantLions&show_icons=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_rank=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RampantLions&hide_border=true&layout=compact&theme=transparent&bg_color=00000000&langs_count=10&hide=css,erlang" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>
+</div>
 
 ---
 
-## 🎓 Education History
+## ![🎓 Education](https://img.shields.io/badge/🎓%20Education-%23ffffff?style=flat-square)
 
-<div style="display: flex; align-items: center; gap: 16px;">
-  <div>
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/uno/uno_logo.jpg?raw=true" style="max-height: 80px;" />
-  </div>
-  <div>
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <h3 style="margin: 0;">University of Nebraska at Omaha</h3>
     <p style="margin: 4px 0;">Bachelor of Science (B.Sc.), Computer Science, Mathematics minor</p>
     <p style="margin: 4px 0;"><i>Graduated — Omaha, Nebraska</i></p>
-  </div>
 </div>
 
 
@@ -115,17 +116,17 @@ University of Nebraska Omaha is a public metropolitan research university offeri
 - Principles of Programming Languages: Language paradigms and compiler design concepts — enhanced ability to work across multiple languages (Ruby, JavaScript, Python).
 - Organizations, Applications, and Technologies: Study of IT enterprise environments — directly relevant to work in multi-organization cloud environments (AWS, NBCUniversal).
 
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-<div style="display: flex; align-items: center; gap: 16px;">
-  <div>
+<div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/unl/unl_logo.jpg?raw=true" style="max-height: 80px;" />
-  </div>
-  <div>
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <h3 style="margin: 0;">University of Nebraska at Lincoln</h3>
     <p style="margin: 4px 0;">Computer Science</p>
     <p style="margin: 4px 0;"><i>Inter-campus Student — Lincoln, Nebraska </i></p>
-  </div>
 </div>
+
 
 **Institution's description:** The University of Nebraska–Lincoln School of Computing offers Nebraska’s only comprehensive program of higher education, research, and service outreach in computer science, computer engineering, and software engineering.
 
@@ -138,17 +139,15 @@ University of Nebraska Inter-campus Student Institution's description: The Unive
 · Object Oriented Design (OOD)
 · Object-Oriented Programming (OOP)
 
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-
-<div style="display: flex; align-items: center; gap: 16px;">
-  <div>
+<div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/bellevue_university/bellevue_university_logo.jpg?raw=true" style="max-height: 80px;" />
-  </div>
-  <div>
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <h3 style="margin: 0;">Bellevue University</h3>
     <p style="margin: 4px 0;">MBA Coursework (50% Complete)</p>
-    <p style="margin: 4px 0;"><i>Bellevue, NE — *degree incomplete* 2014–2015</i></p>
-  </div>
+    <p style="margin: 4px 0;"><i>Bellevue, NE — <i>degree incomplete* 2014–2015</i></p>
 </div>
 
 Bellevue University is a private nonprofit university focused on adult education and applied learning for business, leadership, and technology fields.
@@ -160,14 +159,23 @@ Bellevue University is a private nonprofit university focused on adult education
 - Application of Data Analysis: Data interpretation and modeling — aligned with work on analytics services and system monitoring.
 - Capitalism & Economic Reasoning: Economic system fundamentals — indirectly relevant to business acumen when working on financial-related technical projects (PayPal integrations, Amazon Advertising).
 
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
 ---
 
-## 🧑‍💻 Work History
+## ![🧑‍💻Profession](https://img.shields.io/badge/🧑‍💻%20Profession-%23ffffff?style=flat-square)
 
-### NBCUniversal — Senior Software Engineer
-_Seattle, WA — January 2023 to December 2023_
+<hr style="border: 0; border-top: 1px solid #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/nbcuniversal/nbcuniversal_inc__logo.jpg?raw=true" style="max-height: 80px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">NBCUniversal — Senior Software Engineer</h3>
+    <p style="margin: 4px 0;"><i>Seattle, Washington — January 2023 to December 2023</i></p>
+</div>
 
 NBCUniversal is a global media and entertainment company operating news, television, streaming, and film businesses including NBC, Peacock, and Universal Pictures.
 
@@ -183,8 +191,15 @@ NBCUniversal is a global media and entertainment company operating news, televis
 - Unit Testing (Pytest/Custom Frameworks): Ensured high code reliability through test-driven development.
 - Agile, Scrum: Participated in sprints, stand-ups, and iterative planning for feature releases.
 
-### HBO Max (Warner Bros Discovery) — Senior Software Engineer
-_Seattle, WA — January 2022 to February 2023_
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/hbo/hbo_logo.jpg?raw=true" style="max-height: 80px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">HBO Max (Warner Bros Discovery) — Senior Software Engineer</h3>
+    <p style="margin: 4px 0;"><i>Seattle, Washington — January 2022 to February 2023</i></p>
+</div>
 
 HBO Max is WarnerMedia’s flagship direct-to-consumer streaming platform delivering films, TV shows, and original programming.
 
@@ -203,8 +218,15 @@ HBO Max is WarnerMedia’s flagship direct-to-consumer streaming platform delive
 - Azure Pipelines: Supplementary CI/CD tooling for hybrid deployment environments.
 - WebSocket: Real-time messaging protocol; enabled live updates for streaming services.
 
-### Amazon & AWS — Software Engineer
-_Seattle, WA — January 2016 to October 2021_
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/amazon/amazon.jpg?raw=true" style="max-height: 80px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">Amazon & AWS — Software Engineer</h3>
+    <p style="margin: 4px 0;"><i>Seattle, Washington — January 2016 to October 2021</i></p>
+</div>
 
 Amazon.com is a multinational technology company focusing on e-commerce, cloud computing (AWS), digital streaming, and AI.
 
@@ -235,8 +257,15 @@ AWS Training and Certification offers educational resources and certification pr
 - Protobuf: Used for efficient data serialization between microservices.
 - DevOps Tools (Jenkins, Git, Maven): Maintained automated test pipelines across AWS public regions.
 
-### PayPal — Senior Software Engineer / Integration Engineer
-_La Vista, NE — October 2010 to December 2015_
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/paypal/paypal.jpg?raw=true" style="max-height: 80px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">PayPal — Senior Software Engineer / Integration Engineer</h3>
+    <p style="margin: 4px 0;"><i>La Vista, Nebraska — October 2010 to December 2015</i></p>
+</div>
 
 PayPal is a global online payment system supporting secure financial transactions between individuals and businesses.
 
@@ -255,8 +284,15 @@ PayPal's Professional Services team provides tailored payment solutions and inte
 - Bash: Wrote deployment and support automation scripts.
 - Technical Support Tools: Developed automation to triple support efficiency.
 
-### Google — Operations Technician (Temporary Assignment)
-_Council Bluffs, IA — August 2010 to August 2010_
+<hr style="border: 0; border-top: 1px dashed #eee;" />
+
+<div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/google/google.jpg?raw=true" style="max-height: 80px;" />
+</div>
+<div style="display: inline-block; vertical-align: top; margin-left: 16px;">
+    <h3 style="margin: 0;">Google — Operations Technician (Temp)</h3>
+    <p style="margin: 4px 0;"><i>Council Bluffs, Iowa — August 2010 to August 2010</i></p>
+</div>
 
 Google is a global technology company specializing in search, advertising, cloud computing, and hardware.
 
@@ -270,13 +306,13 @@ Google is a global technology company specializing in search, advertising, cloud
 
 ---
 
-## ⚙️ Skills
+## ![⚙️ Skills](https://img.shields.io/badge/⚙️%20Skills-%23ffffff?style=flat-square)
 
-### ![☁️ Cloud](https://img.shields.io/badge/☁️%20Cloud-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![☁️ Cloud](https://img.shields.io/badge/☁️%20Cloud-%23ffffff?style=flat-square)
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 
-#### ![🖥️ Compute Services](https://img.shields.io/badge/🖥️%20Compute%20Services-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🖥️ Compute Services](https://img.shields.io/badge/🖥️%20Compute%20Services-%23ffffff?style=flat-square)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 ![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -284,21 +320,21 @@ Google is a global technology company specializing in search, advertising, cloud
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-FF9900?style=flat-square)
 ![AWS Batch](https://img.shields.io/badge/AWS%20Batch-FF9900?style=flat-square)
 
-#### ![📦️ Storage Services](https://img.shields.io/badge/📦️%20Storage%20Services-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![📦️ Storage Services](https://img.shields.io/badge/📦️%20Storage%20Services-%23ffffff?style=flat-square)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Amazon EBS](https://img.shields.io/badge/Amazon%20EBS-569A31?style=flat-square)
 ![Amazon EFS](https://img.shields.io/badge/Amazon%20EFS-569A31?style=flat-square)
 ![Amazon Glacier](https://img.shields.io/badge/Amazon%20Glacier-569A31?style=flat-square)
 ![AWS Backup](https://img.shields.io/badge/AWS%20Backup-569A31?style=flat-square)
 
-#### ![🗄️ Database Services](https://img.shields.io/badge/🗄️%20Database%20Services-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🗄️ Database Services](https://img.shields.io/badge/🗄️%20Database%20Services-%23ffffff?style=flat-square)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-527FFF?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=flat-square&logo=amazon-aurora&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-527FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
 ![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-527FFF?style=flat-square)
 
-#### ![🌐 Networking & Content Delivery](https://img.shields.io/badge/🌐%20Networking+%26+Content+Delivery-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🌐 Networking & Content Delivery](https://img.shields.io/badge/🌐%20Networking+%26+Content+Delivery-%23ffffff?style=flat-square)
 ![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-146EB4?style=flat-square)
 ![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-146EB4?style=flat-square)
 ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-146EB4?style=flat-square)
@@ -306,49 +342,49 @@ Google is a global technology company specializing in search, advertising, cloud
 ![AWS Global Accelerator](https://img.shields.io/badge/AWS%20Global%20Accelerator-146EB4?style=flat-square)
 ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-146EB4?style=flat-square&logo=amazon-aws&logoColor=white)
 
-#### ![🔐 Security, Identity, & Compliance](https://img.shields.io/badge/🔐%20Security%2C+Identity%2C+%26+Compliance-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🔐 Security, Identity, & Compliance](https://img.shields.io/badge/🔐%20Security%2C+Identity%2C+%26+Compliance-%23ffffff?style=flat-square)
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS KMS](https://img.shields.io/badge/AWS%20KMS-232F3E?style=flat-square)
 ![AWS Shield](https://img.shields.io/badge/AWS%20Shield-232F3E?style=flat-square)
 ![AWS WAF](https://img.shields.io/badge/AWS%20WAF-232F3E?style=flat-square)
 ![AWS Secrets Manager](https://img.shields.io/badge/AWS%20Secrets%20Manager-232F3E?style=flat-square)
 
-#### ![📊 Analytics](https://img.shields.io/badge/📊%20Analytics-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![📊 Analytics](https://img.shields.io/badge/📊%20Analytics-%23ffffff?style=flat-square)
 ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-1A202C?style=flat-square)
 ![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-1A202C?style=flat-square)
 ![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-1A202C?style=flat-square)
 ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-1A202C?style=flat-square)
 ![AWS Data Pipeline](https://img.shields.io/badge/AWS%20Data%20Pipeline-1A202C?style=flat-square)
 
-#### ![🤖 Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🤖 Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-%23ffffff?style=flat-square)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF4F8B?style=flat-square)
 ![Amazon Comprehend](https://img.shields.io/badge/Amazon%20Comprehend-FF4F8B?style=flat-square)
 ![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Rekognition-FF4F8B?style=flat-square)
 ![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-FF4F8B?style=flat-square)
 ![Amazon Polly](https://img.shields.io/badge/Amazon%20Polly-FF4F8B?style=flat-square)
 
-#### ![🧰 Developer Tools](https://img.shields.io/badge/🧰%20Developer%20Tools-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🧰 Developer Tools](https://img.shields.io/badge/🧰%20Developer%20Tools-%23ffffff?style=flat-square)
 ![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-6E4C13?style=flat-square)
 ![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-6E4C13?style=flat-square)
 ![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-6E4C13?style=flat-square)
 ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-6E4C13?style=flat-square)
 ![AWS Cloud9](https://img.shields.io/badge/AWS%20Cloud9-6E4C13?style=flat-square)
 
-#### ![🔄 Application Integration](https://img.shields.io/badge/🔄%20Application%20Integration-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🔄 Application Integration](https://img.shields.io/badge/🔄%20Application%20Integration-%23ffffff?style=flat-square)
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F00?style=flat-square)
 ![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF4F00?style=flat-square)
 ![Amazon MQ](https://img.shields.io/badge/Amazon%20MQ-FF4F00?style=flat-square)
 ![AWS Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-FF4F00?style=flat-square)
 ![AWS AppSync](https://img.shields.io/badge/AWS%20AppSync-FF4F00?style=flat-square)
 
-#### ![📥 Migration & Transfer](https://img.shields.io/badge/📥%20Migration%20%26%20Transfer-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![📥 Migration & Transfer](https://img.shields.io/badge/📥%20Migration%20%26%20Transfer-%23ffffff?style=flat-square)
 ![AWS Migration Hub](https://img.shields.io/badge/AWS%20Migration%20Hub-0073BB?style=flat-square)
 ![AWS Snowball](https://img.shields.io/badge/AWS%20Snowball-0073BB?style=flat-square)
 ![AWS DMS](https://img.shields.io/badge/AWS%20DMS-0073BB?style=flat-square)
 ![AWS Transfer Family](https://img.shields.io/badge/AWS%20Transfer%20Family-0073BB?style=flat-square)
 ![AWS DataSync](https://img.shields.io/badge/AWS%20DataSync-0073BB?style=flat-square)
 
-#### ![📈 Management & Governance](https://img.shields.io/badge/📈%20Management%20%26%20Governance-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![📈 Management & Governance](https://img.shields.io/badge/📈%20Management%20%26%20Governance-%23ffffff?style=flat-square)
 ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900.svg?style=flat-square&logo=amazonaws&logoColor=black)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF9900.svg?style=flat-square)
 ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-FF9900.svg?style=flat-square)
@@ -356,32 +392,32 @@ Google is a global technology company specializing in search, advertising, cloud
 ![AWS Systems Manager](https://img.shields.io/badge/AWS%20Systems%20Manager-FF9900.svg?style=flat-square)
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900.svg?style=flat-square)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![🗄️ Databases](https://img.shields.io/badge/🗄️%20Databases-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![🗄️ Databases](https://img.shields.io/badge/🗄️%20Databases-%23ffffff?style=flat-square)
 
-#### ![🗃️ Relational (SQL)](https://img.shields.io/badge/🗃%20Relational%20%28SQL%29-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🗃️ Relational (SQL)](https://img.shields.io/badge/🗃%20Relational%20%28SQL%29-%23ffffff?style=flat-square)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A423F0.svg?style=flat-square&logo=microsoft-access&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-#### ![🧩 NoSQL](https://img.shields.io/badge/🧩%20NoSQL-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🧩 NoSQL](https://img.shields.io/badge/🧩%20NoSQL-%23ffffff?style=flat-square)
 ![CouchDB](https://img.shields.io/badge/CouchDB-E42528.svg?style=flat-square&logo=apachecouchdb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535)
 ![NoSQL](https://img.shields.io/badge/NoSQL-0064a5.svg?style=flat-square&logo=nosql&logoColor=white)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![🧱 DevOps / Infrastructure](https://img.shields.io/badge/🧱%20DevOps%20%2F%20Infrastructure-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![🧱 DevOps / Infrastructure](https://img.shields.io/badge/🧱%20DevOps%20%2F%20Infrastructure-%23ffffff?style=flat-square)
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![🧭 Engineering Practices](https://img.shields.io/badge/🧭%20Engineering%20Practices-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![🧭 Engineering Practices](https://img.shields.io/badge/🧭%20Engineering%20Practices-%23ffffff?style=flat-square)
 
 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-6DB33F?style=flat-square)
 ![Continuous Deployment](https://img.shields.io/badge/Continuous%20Deployment-4B612C?style=flat-square&logo=amazonaws&logoColor=white)
@@ -389,11 +425,11 @@ Google is a global technology company specializing in search, advertising, cloud
 ![Software Development Life Cycle](https://img.shields.io/badge/Software%20Development%20Life%20Cycle-FF9900?style=flat-square)
 ![Version Control](https://img.shields.io/badge/Version%20Control-181717?style=flat&logo=git&logoColor=white)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![🧩 Frameworks, APIs, & Protocols](https://img.shields.io/badge/🧩%20Frameworks%2C+APIs%2C%20%26%20Protocols-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![🧩 Frameworks, APIs, & Protocols](https://img.shields.io/badge/🧩%20Frameworks%2C+APIs%2C%20%26%20Protocols-%23ffffff?style=flat-square)
 
-#### ![🧪 Testing & API Development](https://img.shields.io/badge/🧪%20Testing%20%26%20API%20Development-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🧪 Testing & API Development](https://img.shields.io/badge/🧪%20Testing%20%26%20API%20Development-%23ffffff?style=flat-square)
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
@@ -403,9 +439,7 @@ Google is a global technology company specializing in search, advertising, cloud
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 
----
-
-#### ![🔗 Communication & API Protocols](https://img.shields.io/badge/🔗%20Communication%20%26%20API%20Protocols-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🔗 Communication & API Protocols](https://img.shields.io/badge/🔗%20Communication%20%26%20API%20Protocols-%23ffffff?style=flat-square)
 
 ![REST](https://img.shields.io/badge/REST-6DB33F?style=flat-square)
 ![SOAP](https://img.shields.io/badge/SOAP-FF6600?style=flat-square)
@@ -414,9 +448,9 @@ Google is a global technology company specializing in search, advertising, cloud
 ![Protobuf](https://img.shields.io/badge/Protobuf-000000?style=flat-square)
 ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat-square&logo=tRPC&logoColor=white)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![📝 Markup / Data Formats](https://img.shields.io/badge/📝%20Markup%20%2F%20Data%20Formats-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![📝 Markup / Data Formats](https://img.shields.io/badge/📝%20Markup%20%2F%20Data%20Formats-%23ffffff?style=flat-square)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -426,16 +460,16 @@ Google is a global technology company specializing in search, advertising, cloud
 ![XML](https://img.shields.io/badge/xml-%23ffffff.svg?style=flat-square&logo=xml&logoColor=151515)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![🛡️ Networking & Orchestration](https://img.shields.io/badge/🛡%20Networking%20%26%20Orchestration-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![🛡️ Networking & Orchestration](https://img.shields.io/badge/🛡%20Networking%20%26%20Orchestration-%23ffffff?style=flat-square)
 
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat-square&logo=rancher&logoColor=white)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![💻 Programming Languages](https://img.shields.io/badge/💻%20Programming%20Languages-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![💻 Programming Languages](https://img.shields.io/badge/💻%20Programming%20Languages-%23ffffff?style=flat-square)
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -451,16 +485,16 @@ Google is a global technology company specializing in search, advertising, cloud
 ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![🖥 Systems / Environments](https://img.shields.io/badge/🖥%20Systems%20%2F%20Environments-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![🖥 Systems / Environments](https://img.shields.io/badge/🖥%20Systems%20%2F%20Environments-%23ffffff?style=flat-square)
 
 #### ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-%23ffffff?style=flat-square&logo=os&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-%23ffffff.svg?style=flat&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/MacOS-%23ffffff.svg?style=flat&logo=apple&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-%23ffffff.svg?style=flat&logo=windows&logoColor=black)
 
-#### ![🛠 Development Tools](https://img.shields.io/badge/🛠%20Development%20Tools-%23ffffff?style=flat-square&logo=os&logoColor=white)
+#### ![🛠 Development Tools](https://img.shields.io/badge/🛠%20Development%20Tools-%23ffffff?style=flat-square)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
@@ -470,18 +504,20 @@ Google is a global technology company specializing in search, advertising, cloud
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=black)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### ![🌐 Web Development, Servers, & Reverse Proxies](https://img.shields.io/badge/🌐%20Web+Development%2C+Servers%2C+%26+Reverse+Proxies-%23ffffff?style=flat-square&logo=os&logoColor=white)
+### ![🌐 Web Development, Servers, & Reverse Proxies](https://img.shields.io/badge/🌐%20Web+Development%2C+Servers%2C+%26+Reverse+Proxies-%23ffffff?style=flat-square)
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
----
+<hr style="border: 0; border-top: 1px dashed #eee;" />
 
-### Current Focus
+### ![Current Focus](https://img.shields.io/badge/Current%20Focus-%23ffffff?style=flat-square)
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 - Building cross-platform automation workflows.
 - Improving cloud deployment pipelines and release engineering.
@@ -489,9 +525,9 @@ Google is a global technology company specializing in search, advertising, cloud
 
 <p align="right"><a href="#readme-top">↖ Back to top</a></p>
 
----
+### ![Featured Repositories](https://img.shields.io/badge/Featured%20Repositories-%23ffffff?style=flat-square)
 
-### Featured Repositories
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 - [plugin_python_project](https://github.com/RampantLions/plugin_python_project) — Flexible plugin framework for Python projects.
 - [github-automation-scripts](https://github.com/RampantLions) — Workflow scripts and automation tools.
@@ -501,7 +537,9 @@ Google is a global technology company specializing in search, advertising, cloud
 
 ---
 
-### Contact
+### ![Contact](https://img.shields.io/badge/Contact-%23ffffff?style=flat-square)
+
+<hr style="border: 0; border-top: 1px solid #eee;" />
 
 > **GitHub** [@RampantLions](https://github.com/RampantLions) &nbsp;&middot;&nbsp;
 > **LinkedIn** [@wiechman](https://linkedin.com/in/wiechman) &nbsp;&middot;&nbsp;
