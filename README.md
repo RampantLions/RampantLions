@@ -106,9 +106,6 @@ Software Engineer | Cloud | Automation
 <a id="about_me"></a>
 ## ![About Me](https://img.shields.io/badge/_-About_Me-%23ffffff?style=for-the-badge&logo=aboutdotme&logoColor=white&label=&labelColor=grey)
 
-<hr style="border: 0; border-top: 1px solid #eee;" />
-
-
 <div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <p style="margin: 4px 0;">Bringing simplicity, vibrancy, and robustness to life and code! Driven by my passion for engineering, software development, technical leadership, mentoring, and continuous learning.</p>
     <p style="margin: 4px 0;">With my diverse set of skills, including architecting, development, mentoring, and instructing, my curiosity guides me to explore, discover, and solve complex problems.</p>
@@ -828,8 +825,6 @@ employer
 <a id="education"></a>
 ## ![🎓 Education](https://img.shields.io/badge/🎓-Education-%23ffffff?style=for-the-badge&labelColor=transparent)
 
-<hr style="border: 0; border-top: 1px solid #eee;" />
-
 <div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/education/uno/uno_logo.jpg?raw=true" style="max-height: 70px;" />
 </div>
@@ -1017,8 +1012,6 @@ Bellevue University is a private nonprofit university focused on adult education
 <a id="certifications"></a>
 ## ![📜 Certifications](https://img.shields.io/badge/📜-Certifications-%23ffffff?style=for-the-badge&labelColor=transparent)
 
-<hr style="border: 0; border-top: 1px solid #eee;" />
-
 - AI Foundations, University of Nebraska System
 - Certified Scrum Master (CSM), Scrum Alliance
 - Advanced Certified Scrum Master (A-CSM), Scrum Alliance
@@ -1042,8 +1035,6 @@ Bellevue University is a private nonprofit university focused on adult education
 <a id="honors"></a>
 ## ![🏅 Honors](https://img.shields.io/badge/🏅-Honors-%23ffffff?style=for-the-badge&labelColor=transparent)
 
-<hr style="border: 0; border-top: 1px solid #eee;" />
-
 - 1st Place (Global Operations) Be the Customer Campaign, PayPal • 2014
 - 2nd Place Hack-a-thon, Summer Do-It-In-24, PayPal • 2011
 - Hack-a-thon Finalist, PayPal • 2011
@@ -1061,8 +1052,6 @@ Bellevue University is a private nonprofit university focused on adult education
 
 <a id="involvement"></a>
 ## ![👥 Involvement](https://img.shields.io/badge/👥-Involvement-%23ffffff?style=for-the-badge&labelColor=transparent)
-
-<hr style="border: 0; border-top: 1px solid #eee;" />
 
 - Hack-a-thon Nebraska Site Lead, PayPal • 2013 - 2014: Site lead for worldwide PayPal Hack-a-thon. Procured and supplied venues, food, manager support, and communications/details.
 - Intern Mentor (resulting in returning offers):
@@ -1113,8 +1102,6 @@ Bellevue University is a private nonprofit university focused on adult education
 
 <a id="contact"></a>
 ## ![📇 Contact](https://img.shields.io/badge/📇-Contact-%23ffffff?style=for-the-badge&labelColor=transparent)
-
-<hr style="border: 0; border-top: 1px solid #eee;" />
 
 > **GitHub** [@RampantLions](https://github.com/RampantLions) &nbsp;&middot;&nbsp;
 > **LinkedIn** [@wiechman](https://linkedin.com/in/wiechman) &nbsp;&middot;&nbsp;
