@@ -401,8 +401,6 @@ Software Engineer | Cloud | Automation
 <a id="profession"></a>
 ## ![‍💻 Profession](https://img.shields.io/badge/💻-Profession-%23ffffff?style=for-the-badge&labelColor=transparent)
 
-<hr style="border: 0; border-top: 1px solid #eee;" />
-
 <div style="display: inline-block; vertical-align: top;">
     <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/nbcuniversal/nbcuniversal_inc__logo.jpg?raw=true" style="max-height: 55px;" />
 </div>
