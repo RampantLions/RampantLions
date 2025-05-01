@@ -1,5 +1,8 @@
 <!-- BEGIN RampantLions README.MD V0.0.1 BLOCK -->
 <a id="readme-top"></a>
+
+<center><img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profile.jpg?raw=true" style="max-height: 55px;" /></center>
+
 # Josh Wiechman
 
 Software Engineer | Cloud | Automation
@@ -106,9 +109,6 @@ Software Engineer | Cloud | Automation
 <hr style="border: 0; border-top: 1px solid #eee;" />
 
 
-<div style="display: inline-block; vertical-align: top;">
-    <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profile.jpg?raw=true" style="max-height: 55px;" />
-</div>
 <div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <p style="margin: 4px 0;">Bringing simplicity, vibrancy, and robustness to life and code! Driven by my passion for engineering, software development, technical leadership, mentoring, and continuous learning.</p>
     <p style="margin: 4px 0;">With my diverse set of skills, including architecting, development, mentoring, and instructing, my curiosity guides me to explore, discover, and solve complex problems.</p>
