@@ -786,9 +786,7 @@ employer
 <hr style="border: 0; border-top: 1px dashed #eee;" />
 
 <div style="display: inline-block; vertical-align: top;">
-
     <img src="https://github.com/RampantLions/RampantLions/blob/main/assets/images/profession/farrells/farrells_extreme_bodyshaping_inc_logo.jpg?raw=true" style="max-height: 55px;" />
-
 </div>
 <div style="display: inline-block; vertical-align: top; margin-left: 16px;">
     <h3 style="margin: 0;">Farrell’s Extreme Bodyshaping — Level II Resistance Training and Cardio Kickboxing Instructor</h3>
@@ -1011,6 +1009,9 @@ Bellevue University is a private nonprofit university focused on adult education
 ## ![📜 Certifications](https://img.shields.io/badge/📜-Certifications-%23ffffff?style=for-the-badge&labelColor=transparent)
 
 - AI Foundations, University of Nebraska System
+- Google AI Essentials, University of Nebraska System & Google
+- Google Prompting Essentials, University of Nebraska System & Google
+- Google Crash Course on Python, University of Nebraska System & Google
 - Certified Scrum Master (CSM), Scrum Alliance
 - Advanced Certified Scrum Master (A-CSM), Scrum Alliance
 - Certified Scrum Professional Scrum Master (CSP-SM), Scrum Alliance
